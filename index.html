@@ -1,4 +1,4 @@
-<div w3-include-html="top.html"></div>
+<iframe src="top.html" onload="this.insertAdjacentHTML('afterend', (this.contentDocument.body||this.contentDocument).innerHTML);this.remove()"></iframe>
 <br /><br />
 
 
@@ -9,4 +9,4 @@ success?
 
 
 
-<div w3-include-html="bottom.html"></div>
+<iframe src="bottom.html" onload="this.insertAdjacentHTML('afterend', (this.contentDocument.body||this.contentDocument).innerHTML);this.remove()"></iframe>
