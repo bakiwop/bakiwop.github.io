@@ -1,4 +1,4 @@
- <? include("top.html") ?>
+<!--#include file="top.html" -->
 
 
 
@@ -324,4 +324,5 @@
 
 
 
- <? include("bottom.html") ?>
+
+<!--#include file="bottom.html" -->
