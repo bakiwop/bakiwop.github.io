@@ -1,0 +1,291 @@
+.tricoloreblack {
+	background-color: #000;
+	height:5px;
+}
+
+.tricolorepurple {
+	background-color: #880e4f;
+	height:5px;
+}
+
+.tricoloreorange {
+	background-color: #e65100;
+	height:5px;
+}
+
+.tricolorered {
+	background-color: #ff5252;
+	height:5px;
+}
+
+.tricoloreblue {
+	background-color: #0389d1;
+	height:5px;
+}
+
+.tricoloregreen {
+	background-color: #588c32;
+	height:5px;
+}
+
+.tricoloreyellow {
+	background-color: #ffd600;
+	height:5px;
+}
+
+
+
+
+.yella {
+	background-color: #feffcf;
+	height:25px;
+}
+
+
+
+
+
+hr.black {
+	color: #000;
+}
+
+hr.purple {
+	color: #880e4f;
+}
+
+hr.orange {
+	color: #e65100;
+}
+
+hr.red {
+	color: #ff5252;
+}
+
+hr.blue {
+	color: #0389d1;
+}
+
+hr.green {
+	color: #588c32;
+}
+
+hr.yellow {
+	color: #ffd600;
+}
+
+
+
+
+
+
+
+
+
+
+
+.topred {
+	background-color: #f36c3d;
+	height:5px;
+}
+
+.topyellow {
+	background-color: #fec679;
+	height:5px;
+}
+
+.topgreen {
+	background-color: #96d5ce;
+	height:5px;
+}
+
+.topblue {
+	background-color: #00697f;
+	height:5px;
+}
+
+/*
+.TopOrangeLine {
+	background-color: #f36c3d;
+	height:5px;
+}
+*/
+
+.OrangeOverdrive {
+	background-color: #f8966f;
+	padding: 10px;
+	text-align: center;
+	color: #631d02;
+}
+
+a.TopBarOrange:link {
+  color: #631d02;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.TopBarOrange:visited {
+  color: #631d02;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.TopBarOrange:hover {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.TopBarOrange:active {
+  color: #bb3805;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.YellowCatalog {
+	background-color: #fec679;
+	text-align: center;
+	padding: 10px;
+	color: #5f3901;
+}
+
+a.TopBarYellow:link {
+  color: #5f3901;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.TopBarYellow:visited {
+  color: #5f3901;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.TopBarYellow:hover {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.TopBarYellow:active {
+  color: #bc7000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.GreenResources {
+background-color: #d1e7dd;
+//	background-color: #96d5ce;
+	text-align: center;
+	padding: 10px;
+	color: #014d45;
+}
+
+a.TopBarGreen:link {
+  color: #014d45;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.TopBarGreen:visited {
+  color: #014d45;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.TopBarGreen:hover {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.TopBarGreen:active {
+  color: #039485;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.PurpleResources {
+	background-color: #cfe2ff;
+//	background-color: #9ec5fe;
+	text-align: center;
+	padding: 10px;
+	color: #014d45;
+}
+
+.RedResources {
+	background-color: #f8d7da;
+	text-align: center;
+	padding: 10px;
+	color: #014d45;
+}
+
+.YellowResources {
+	background-color: #fff3cd;
+	text-align: center;
+	padding: 10px;
+	color: #014d45;
+}
+
+.BlueResources {
+	background-color: #cff4fc;
+	text-align: center;
+	padding: 10px;
+	color: #014d45;
+}
+
+.title {
+	color: #f8966f;
+	text-align: center;
+	// color: #631d02;
+}
+
+.hred {
+	background-color: #f36c3d;
+	height:1px;
+}
+
+
+
+/* colors for background li in staff */
+.lightgreen { background: #e9f3db; }
+.lightpurple { background: #d6dfe7; }
+.lightred { background: #f7dddc; }
+.lightorange { background: #fde5d8; }
+.lightblue { background: #d4eef9; }
+
+
+/* NOT WORKING - Colors for Driftwood Little Libraries - NOT WORKING */
+.mapgreen { border-color: 96d5ce; color: #000;}
+.mapyellow { background: #fec679; color: #000;}
+card.maporange { background: #f36c3d; color: #000;}
+.mapblue { background: #00697f; color: #fff; }
+
+.driver {
+	color: #00697f;
+}
+
+.btn-mintgreen{color:#fff;background-color:#62c5bb;border-color:#26a698}
+.btn-mintgreen.focus,.btn-mintgreen:focus{color:#fff;background-color:#26a698;border-color:#019f8e}
+.btn-mintgreen:hover{color:#fff;background-color:#019f8e;border-color:#007c6f}
+.btn-mintgreen.active,.btn-mintgreen:active,.open>.dropdown-toggle.btn-mintgreen{color:#fff;background-color:#26a698;border-color:#019f8e}
+.btn-mintgreen.active.focus,.btn-mintgreen.active:focus,.btn-mintgreen.active:hover,.btn-mintgreen:active.focus,.btn-mintgreen:active:focus,.btn-mintgreen:active:hover,.open>.dropdown-toggle.btn-mintgreen.focus,.open>.dropdown-toggle.btn-mintgreen:focus,.open>.dropdown-toggle.btn-mintgreen:hover{color:#fff;background-color:#007c6f;border-color:#005048}
+.btn-mintgreen.active,.btn-mintgreen:active,.open>.dropdown-toggle.btn-mintgreen{background-image:none}.btn-mintgreen.disabled.focus,.btn-mintgreen.disabled:focus,.btn-mintgreen.disabled:hover,.btn-mintgreen[disabled].focus,.btn-mintgreen[disabled]:focus,.btn-mintgreen[disabled]:hover,fieldset[disabled] .btn-mintgreen.focus,fieldset[disabled] .btn-mintgreen:focus,fieldset[disabled] .btn-mintgreen:hover{background-color:#62c5bb;border-color:#26a698}
+.btn-mintgreen .badge{color:#62c5bb;background-color:#fff}
+
+
+// HAMBURGER MENU COLOR CHANGE
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='coral' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+.navbar-toggler{
+  border: 2px solid #96d5ce;
+}
+
+.navbar-toggler:hover{
+box-shadow: inset 5em 1em #5499a7;
+}
+/*
+.navbar-toggler:focus{
+  box-shadow: none;
+}
+*/
