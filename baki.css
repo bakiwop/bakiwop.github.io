@@ -20,10 +20,12 @@ a.titolo, a.titolo:visited, a.titolo:hover, a:active, a:focus {
 	background-color: #fff;
 }
 
+/*
 img.titolo {
 	width: 50px;
 	height: 50px;
 }
+*/
 
 p.titolo {
 	text-align: center;
