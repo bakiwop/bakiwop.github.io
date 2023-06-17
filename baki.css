@@ -34,3 +34,18 @@ p.titolo {
 
 
 .illuminated{font-size:.7em;font-weight:900;font-family:courier,courier new;color:#FF3C00;}
+
+.TheGreatDivider {
+	display:flex;
+	}
+
+.TheDivided {
+	flex-grow:1;
+	padding:5px;
+	}
+.Fiction {
+
+	}
+.NonFiction {
+
+	}
