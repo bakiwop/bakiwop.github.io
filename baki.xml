@@ -5,6 +5,11 @@
 			<title>baki</title>
 			<link>https://baki.cc/</link>
 			<description>No one of consequence.</description>
+			<image>
+				<url>https://www.baki.cc/bakirss.png</url>
+				<title>baki</title>
+				<link>https://www.baki.cc</link>
+			</image>
 			<atom:link href="https://baki.cc/baki.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Groovy Digs VIII</title>
