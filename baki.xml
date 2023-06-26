@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/baki.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+			<title>baki</title>
+			<link>https://baki.cc/</link>
+			<description>Curiosity. Tenacity. Empathy. Love.</description>
+			<atom:link href="https://baki.cc/baki.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Groovy Digs VIII</title>
+			<link>https://baki.cc/groovy_digs_viii.php</link>
+			<description>
+				<![CDATA[
+				<h4 class="card-title">Groovy Digs VIII</h4>
+				<br />
+						<p>Ah, the siren call of <a href="https://www.youtube.com/watch?v=jIDJytb4aFM">Twin Cities living</a>. How silly. A house in the Prospect Park neighborhood of Minneapolis, a quiet little neighborhood that isn't really on the way to anywhere or have anything to attract people to (save <a href="https://en.wikipedia.org/wiki/Prospect_Park_Water_Tower">The Witches Tower</a> which opens to the public once a year). It's close to the <a href="https://twin-cities.umn.edu/">U</a>, close to <a href="https://www.minneapolismn.gov/getting-around/bicycling/">bicycle</a> and <a href="https://www.minneapolismn.gov/getting-around/walking/">walking</a> paths, close to <a href="https://511mn.org/camera/200321/@-93.22853,44.96857,13?show=metroTrafficMap,roadReports,normalCameras,winterDriving,weatherWarningsAreaEvents,stationsAlert,otherStateInfo">94 and 280</a>, and close to decent <a href="https://www.metrotransit.org/">public transit</a>...all in all <a href="https://www.realtor.com/realestateandhomes-detail/172-Bedford-St-SE_Minneapolis_MN_55414_M72014-35937">172 Bedford St SE, Minneapolis MN 55414</a> is a groovy 3 bed, 1.5 bath, 1,368 sq ft house with a cute little alley and a two car garage.</p>
+
+				]]>
+			</description>
+			<pubDate>Sun, 25 Dec 2022 16:02:42 PDT</pubDate>
+			<guid>https://baki.cc/groovy_digs_viii.php</guid>
+		</item>
+		<item>
+			<title>April Witteveen</title>
+			<link>https://baki.cc/april_witteveen.php</link>
+			<description>
+				<![CDATA[
+				<h4 class="card-title">April Witteveen</h4>
+				<br />
+						<blockquote class="yellow">
+							Equity and inclusion are not dirty words, and they are not political words. To embrace principles of equity and inclusion is to recognize that we each bring a variety of lived experiences to our work, our education and our social groups.
+						</blockquote>
+						<p>- <a href="https://www.aprilwitteveen.com/">April Witteveen</a>, <a href="https://pamplinmedia.com/ceo/162-news/565322-452770-crook-county-library-it-has-been-a-pleasure-to-serve-you">CROOK COUNTY LIBRARY: It has been a pleasure to serve you</a></p>
+
+				]]>
+			</description>
+			<pubDate>Tue, 13 Dec 2022 19:27:42 PDT</pubDate>
+			<guid>https://baki.cc/april_witteveen.php</guid>
+		</item>
+		<item>
+			<title>Andrew Hartzler</title>
+			<link>https://baki.cc/andrew_hartzler.php</link>
+			<description>
+				<![CDATA[
+				<h4 class="card-title">Andrew Hartzler</h4>
+				<br />
+					<blockquote class="yellow">
+						You want the power to force your religious beliefs onto everyone else and because you don't have that power you feel like you're being silenced, but you're not. You're just gonna have to learn to coexist with all of us and I'm sure it's not that hard.
+					</blockquote>
+					<p>- <a href="https://www.tiktok.com/@andrewhartzler/video/7175122363812564266">Andrew Hartzler</a> to Aunt Vicky, <a href="https://hartzler.house.gov/">Rep. Vicky Hartzler</a> who <a href="https://www.c-span.org/video/?c5045171/user-clip-rep-vicky-hartzler-speaks-respect-marriage-act">spoke against</a> the <a href="https://www.congress.gov/bill/117th-congress/house-bill/8404">Respect for Marriage Act</a></p>
+
+				]]>
+			</description>
+			<pubDate>Sat, 10 Dec 2022 23:36:42 PDT</pubDate>
+			<guid>https://baki.cc/andrew_hartzler.php</guid>
+		</item>
+	</channel>
+</rss>
