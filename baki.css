@@ -10,14 +10,14 @@ h1, h2, h3, h4, h5 {
 	text-align: center;
 }
 
-
+/*
 blockquote {
 	color: #043842;
 }
-
+*/
 a.titolo, a.titolo:visited, a.titolo:hover, a:active, a:focus {
 	text-decoration: none;
-	background-color: #fff;
+//	background-color: #fff;
 }
 
 /*
