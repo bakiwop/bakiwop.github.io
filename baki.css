@@ -1,6 +1,8 @@
 body {
 	max-width: 750px;
-	font-size: 1.2em;
+	font-family: Futura, Helvetica, Arial, sans-serif;
+	font-size: 1.3em;
+	line-height: 2.0rem;
 	margin:40px auto;
 	padding: 5px;
 }
@@ -8,6 +10,7 @@ body {
 
 h1, h2, h3, h4, h5 {
 	text-align: center;
+	line-height: 2.5rem;
 }
 
 /*
@@ -22,6 +25,10 @@ a.titolo, a.titolo:visited, a.titolo:hover, a:active, a:focus {
 
 a.fine, a.fine:visited, a.fine:hover, a.fine:active, a.fine:focus {
 	text-decoration: none;
+}
+
+.piccola {
+	font-size: .5em;
 }
 
 /*
