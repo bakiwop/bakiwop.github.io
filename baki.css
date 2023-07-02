@@ -20,6 +20,10 @@ a.titolo, a.titolo:visited, a.titolo:hover, a:active, a:focus {
 //	background-color: #fff;
 }
 
+a.fine, a.fine:visited, a.fine:hover, a.fine:active, a.fine:focus {
+	text-decoration: none;
+}
+
 /*
 img.titolo {
 	width: 50px;
