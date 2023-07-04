@@ -8,6 +8,17 @@ body {
 }
 
 
+/* do this if very small */
+@media (max-width: 500px) {
+
+	body {
+		font-size: 1.0rem;
+		line-height: 1.5rem;
+		margin: 2.0rem;
+	}
+}
+
+
 h1, h2, h3, h4, h5 {
 	text-align: center;
 	line-height: 2.5rem;
