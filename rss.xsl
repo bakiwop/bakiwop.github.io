@@ -66,7 +66,7 @@
                                             <xsl:value-of select="title"/>
                                         </a>
                                     </h3>
-					<div><xsl:value-of select="description"/></div>
+					<div><![CDATA[<xsl:value-of select="description"/>]]></div>
                                     <footer>
                                         Published:
                                         <time>
