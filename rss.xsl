@@ -14,7 +14,10 @@
 </head>
 <body>
 <p align="center"><a href="https://baki.cc"><img width="30" class="titolo" src="bakititolo.png" /></a></p>
+<!-- works but not what i want
 <p align="center"><xsl:value-of select="/rss/channel/title"/> rss :: <xsl:value-of select="/rss/channel/description"/></p>
+-->
+<p align="center">baki rss<br />caveat lector</p>
 
 
 <xsl:for-each select="/rss/channel/item">
