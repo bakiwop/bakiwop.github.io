@@ -43,6 +43,11 @@ a.fine, a.fine:visited, a.fine:hover, a.fine:active, a.fine:focus {
 	color: #ff00ff;
 }
 
+.piccolanormale {
+	font-size: 1.2em;
+	color: #ff00ff;
+}
+
 /*
 img.titolo {
 	width: 50px;

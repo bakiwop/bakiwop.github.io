@@ -29,7 +29,7 @@
 		</a>
 	</h4>
 	<div><xsl:value-of select="description"/></div>
-	<p class="piccola">Published: <xsl:value-of select="pubDate" /></p>
+	<p class="piccolanormale">Published: <xsl:value-of select="pubDate" /></p>
 </xsl:for-each>
 
 </body>
