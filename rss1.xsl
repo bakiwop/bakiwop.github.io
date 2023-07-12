@@ -4,7 +4,7 @@
 <xsl:template match="/">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 <head>
-	<title><xsl:value-of select="/rss/channel/title"/> RSS</title>
+	<title><xsl:value-of select="/rss/channel/title"/> rss</title>
 	<meta charset="UTF-8" />
 	<meta http-equiv="content-language" content="en_US" />
 	<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,shrink-to-fit=no" />
@@ -27,9 +27,9 @@
 			</xsl:attribute>
 			<xsl:value-of select="title"/>
 		</a>
-	</hr>
+	</h4>
 	<div><xsl:value-of select="description"/></div>
-	<div class="piccola">Published: <xsl:value-of select="pubDate" /></div>
+	<p class="piccola">Published: <xsl:value-of select="pubDate" /></p>
 </xsl:for-each>
 
 </body>
