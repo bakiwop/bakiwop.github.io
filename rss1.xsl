@@ -13,23 +13,24 @@
 	<link href="baki.css" rel="stylesheet" />
 </head>
 <body>
-<p class="titolo"><img width="30" class="titolo" src="bakititolo.png" /></p>
+<p class="titolo"><a href="https:baki.cc"><img width="30" class="titolo" src="bakititolo.png" /></a></p>
 <p align="center">
 	baki rss
 </p>
 
 
 <xsl:for-each select="/rss/channel/item">
-	<h4>
+	<h2>
 		<a hreflang="en" target="_blank">
 			<xsl:attribute name="href">
 				<xsl:value-of select="link"/>
 			</xsl:attribute>
 			<xsl:value-of select="title"/>
 		</a>
-	</h4>
-	<div><xsl:value-of select="description"/></div>
-	<p class="piccolanormale">Published: <xsl:value-of select="pubDate" /></p>
+	</h2>
+	<div align="Center"><xsl:value-of select="description"/></div>
+	<p class="piccolanormale" align="Center">Published: <xsl:value-of select="pubDate" /></p>
+	<hr />
 </xsl:for-each>
 
 </body>
