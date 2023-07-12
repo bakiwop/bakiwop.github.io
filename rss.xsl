@@ -14,7 +14,7 @@
 </head>
 <body>
 <p align="center"><a href="https://baki.cc"><img width="30" class="titolo" src="bakititolo.png" /></a></p>
-<p align="center">baki rss</p>
+<p align="center"><xsl:value-of select="/rss/channel/title"/> rss :: <xsl:value-of select="/rss/channel/description"/></p>
 
 
 <xsl:for-each select="/rss/channel/item">
