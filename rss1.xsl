@@ -13,7 +13,7 @@
 	<link href="baki.css" rel="stylesheet" />
 </head>
 <body>
-<p class="titolo"><img width="30" class="titolo" src="bakititolo.png" /></a></p>
+<p class="titolo"><img width="30" class="titolo" src="bakititolo.png" /></p>
 <p align="center">
 	RSS | 
 	<xsl:value-of select="/rss/channel/title"/> | 
