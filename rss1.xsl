@@ -13,16 +13,9 @@
 	<link href="baki.css" rel="stylesheet" />
 </head>
 <body>
-<p class="titolo"><img width="30" class="titolo" src="bakititolo.png" /></p>
+<p class="titolo"><img width="100" class="titolo" src="bakititolo.png" /></p>
 <p align="center">
-	RSS | 
-	<xsl:value-of select="/rss/channel/title"/> | 
-	<xsl:value-of select="/rss/channel/description"/> |
-	<a hreflang="en" target="_blank">
-		<xsl:attribute name="href">
-			<xsl:value-of select="/rss/channel/link"/>
-		</xsl:attribute>
-	</a>
+	baki rss
 </p>
 
 

@@ -5,19 +5,19 @@
 			<atom:link href="https://baki.cc/rss.xml" rel="self" type="application/rss+xml" />
 			<title>baki</title>
 			<link>https://baki.cc/</link>
-			<description>No one of consequence.</description>
+			<description>Caveat Lector</description>
 			<lastBuildDate>Sun, 25 Dec 2022 16:02:42 PDT</lastBuildDate>
 			<language>en-us</language>
 		<item>
 			<title>Groovy Digs VIII</title>
 			<link>https://baki.cc/groovy_digs_viii.php</link>
 			<description>
-				<![CDATA[
+
 				<h4 class="card-title">Groovy Digs VIII</h4>
 				<br />
 						<p>Ah, the siren call of <a href="https://www.youtube.com/watch?v=jIDJytb4aFM">Twin Cities living</a>. How silly. A house in the Prospect Park neighborhood of Minneapolis, a quiet little neighborhood that isn't really on the way to anywhere or have anything to attract people to (save <a href="https://en.wikipedia.org/wiki/Prospect_Park_Water_Tower">The Witches Tower</a> which opens to the public once a year). It's close to the <a href="https://twin-cities.umn.edu/">U</a>, close to <a href="https://www.minneapolismn.gov/getting-around/bicycling/">bicycle</a> and <a href="https://www.minneapolismn.gov/getting-around/walking/">walking</a> paths, close to <a href="https://511mn.org/camera/200321/@-93.22853,44.96857,13?show=metroTrafficMap,roadReports,normalCameras,winterDriving,weatherWarningsAreaEvents,stationsAlert,otherStateInfo">94 and 280</a>, and close to decent <a href="https://www.metrotransit.org/">public transit</a>...all in all <a href="https://www.realtor.com/realestateandhomes-detail/172-Bedford-St-SE_Minneapolis_MN_55414_M72014-35937">172 Bedford St SE, Minneapolis MN 55414</a> is a groovy 3 bed, 1.5 bath, 1,368 sq ft house with a cute little alley and a two car garage.</p>
 
-				]]>
+
 			</description>
 			<pubDate>Sun, 25 Dec 2022 16:02:42 PDT</pubDate>
 			<guid>https://baki.cc/groovy_digs_viii.php</guid>
