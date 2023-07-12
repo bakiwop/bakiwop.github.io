@@ -13,7 +13,7 @@
 	<link href="baki.css" rel="stylesheet" />
 </head>
 <body>
-<p align="Center""><a href="https://baki.cc"><img width="30" class="titolo" src="bakititolo.png" /></a></p>
+<p align="center"><a href="https://baki.cc"><img width="30" class="titolo" src="bakititolo.png" /></a></p>
 <p align="center">baki rss</p>
 
 
