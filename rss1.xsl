@@ -13,10 +13,8 @@
 	<link href="baki.css" rel="stylesheet" />
 </head>
 <body>
-<p class="titolo"><a href="https:baki.cc"><img width="30" class="titolo" src="bakititolo.png" /></a></p>
-<p align="center">
-	baki rss
-</p>
+<p align="Center""><a href="https://baki.cc"><img width="30" class="titolo" src="bakititolo.png" /></a></p>
+<p align="center">baki rss</p>
 
 
 <xsl:for-each select="/rss/channel/item">
