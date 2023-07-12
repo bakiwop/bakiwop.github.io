@@ -20,16 +20,16 @@
 
 
 <xsl:for-each select="/rss/channel/item">
-	<h3>
+	<h4>
 		<a hreflang="en" target="_blank">
 			<xsl:attribute name="href">
 				<xsl:value-of select="link"/>
 			</xsl:attribute>
 			<xsl:value-of select="title"/>
 		</a>
-	</h3>
+	</hr>
 	<div><xsl:value-of select="description"/></div>
-	<div>Published: <xsl:value-of select="pubDate" /></div>
+	<div class="piccola">Published: <xsl:value-of select="pubDate" /></div>
 </xsl:for-each>
 
 </body>
