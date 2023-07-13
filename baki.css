@@ -8,7 +8,7 @@ body {
 }
 
 
-/* do this if very small */
+/* for the piccolo screens */
 @media (max-width: 500px) {
 
 	body {
@@ -22,6 +22,10 @@ body {
 h1, h2, h3, h4, h5 {
 	text-align: center;
 	line-height: 2.5rem;
+}
+
+h1.enorme {
+	color: #00ff00;
 }
 
 /*
@@ -67,20 +71,7 @@ p.titolo {
 
 .illuminated{font-size:.7em;font-weight:900;font-family:courier,courier new;color:#FF3C00;}
 
-.TheGreatDivider {
-	display:flex;
-	}
 
-.TheDivided {
-	flex-grow:1;
-	padding:5px;
-	}
-.Fiction {
-
-	}
-.NonFiction {
-
-	}
 .darkmode {
 	background-color: #000;
 	color:#fff;
