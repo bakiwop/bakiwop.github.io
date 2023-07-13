@@ -22,7 +22,7 @@
 
 <xsl:for-each select="/rss/channel/item">
 	<h2>
-		<a hreflang="en" target="_blank">
+		<a hreflang="en">
 			<xsl:attribute name="href">
 				<xsl:value-of select="link"/>
 			</xsl:attribute>
