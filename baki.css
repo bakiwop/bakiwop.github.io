@@ -38,8 +38,18 @@ a.titolo, a.titolo:visited, a.titolo:hover, a:active, a:focus {
 //	background-color: #fff;
 }
 
+a:hover {
+	color: #0dcaf0;
+}
+
 a.fine, a.fine:visited, a.fine:hover, a.fine:active, a.fine:focus {
 	text-decoration: none;
+	color: #f00d1e;
+	font-size: .75em;
+}
+
+a.fine:hover {
+	color: #fb9199;
 }
 
 .piccola {
@@ -74,6 +84,15 @@ p.titolo {
 
 
 .illuminated{font-size:.7em;font-weight:900;font-family:courier,courier new;color:#FF3C00;}
+
+
+/* colors for background li in staff */
+.lightred { background: #f7dddc; }
+.lightorange { background: #fde5d8; }
+.lightyellow { background: #f3f6cc; }
+.lightgreen { background: #e9f3db; }
+.lightblue { background: #d4eef9; }
+.lightpurple { background: #d6dfe7; }
 
 
 .darkmode {
