@@ -1,14 +1,21 @@
 body {
 	max-width: 750px;
 	font-family: Futura, Helvetica, Arial, sans-serif;
+/* really big font
 	font-size: 1.3em;
 	line-height: 2.0rem;
 	margin:40px auto;
+*/
+		font-size: 1.0rem;
+		line-height: 1.5rem;
+		margin: 1.0rem auto;
 	padding: 5px;
 }
 
 
 /* for the piccolo screens */
+/* when using really big font above */
+/*
 @media (max-width: 500px) {
 
 	body {
@@ -17,6 +24,7 @@ body {
 		margin: 1.0rem;
 	}
 }
+*/
 
 
 h1, h2, h3, h4, h5 {
