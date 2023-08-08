@@ -8,7 +8,15 @@ body {
 }
 
 
+/* for the piccolo screens */
+@media (max-width: 500px) {
 
+	body {
+		font-size: 1.0rem;
+		line-height: 1.5rem;
+		margin: 1.0rem;
+	}
+}
 
 
 h1, h2, h3, h4, h5 {
