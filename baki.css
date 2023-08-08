@@ -86,13 +86,13 @@ p.titolo {
 .illuminated{font-size:.7em;font-weight:900;font-family:courier,courier new;color:#FF3C00;}
 
 
-/* colors for background li in staff */
-.lightred { background: #f7dddc; }
-.lightorange { background: #fde5d8; }
-.lightyellow { background: #f3f6cc; }
-.lightgreen { background: #e9f3db; }
-.lightblue { background: #d4eef9; }
-.lightpurple { background: #d6dfe7; }
+/* colors for background on index */
+.lightred { background: #f7dddc; padding:25px 10px;}
+.lightorange { background: #fde5d8;  padding:25px 10px;}
+.lightyellow { background: #f3f6cc;  padding:25px 10px;}
+.lightgreen { background: #e9f3db;  padding:25px 10px;}
+.lightblue { background: #d4eef9;  padding:25px 10px;}
+.lightpurple { background: #d6dfe7;  padding:25px 10px;}
 
 
 .darkmode {
