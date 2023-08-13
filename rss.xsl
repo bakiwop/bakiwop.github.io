@@ -10,7 +10,7 @@
 	<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,shrink-to-fit=no" />
 	<meta name="referrer" content="none" />
 	<link rel="icon" type="image/x-icon" href="favicon.ico" />
-	<link href="baki.css" rel="stylesheet" />
+	<link href="https://baki.cc/baki.css" rel="stylesheet" />
 </head>
 <body>
 <p align="center"><a href="https://baki.cc"><img width="30" class="titolo" src="bakititolo.png" /></a></p>
