@@ -129,7 +129,7 @@ p.titolo {
 .lightpurple { background: #e5d0ff;  padding:25px 10px;}
 
 /* colors for background on ope */
-.opelightred { background: #ffd0d9; padding:3px;}
+.opelightred { background: #ffd0d9; padding:3px 10px;}
 .opelightorange { background: #ffd7b5;  padding:3px 3px;}
 .opelightyellow { background: #ffffd0;  padding:3px 3px;}
 .opelightgreen { background: #d0ffd1;  padding:3px 3px;}
