@@ -128,13 +128,13 @@ p.titolo {
 .lightblue { background: #d4eef9;  padding:25px 10px;}
 .lightpurple { background: #e5d0ff;  padding:25px 10px;}
 
-/* colors for background on index */
-.lightredope { background: #ffd0d9; padding:55px 5px;}
-.lightorangeope { background: #ffd7b5;  padding:25px 10px;}
-.lightyellowope { background: #ffffd0;  padding:25px 10px;}
-.lightgreenope { background: #d0ffd1;  padding:25px 10px;}
-.lightblueope { background: #d4eef9;  padding:25px 10px;}
-.lightpurpleope { background: #e5d0ff;  padding:25px 10px;}
+/* colors for background on ope */
+.opelightred { background: #ffd0d9; padding:5px 5px;}
+.opelightorange { background: #ffd7b5;  padding:25px 10px;}
+.opelightyellow { background: #ffffd0;  padding:25px 10px;}
+.opelightgreen { background: #d0ffd1;  padding:25px 10px;}
+.opelightblue { background: #d4eef9;  padding:25px 10px;}
+.opelightpurple { background: #e5d0ff;  padding:25px 10px;}
 
 
 .darkmode {
