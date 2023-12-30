@@ -36,6 +36,32 @@ h1.enorme {
 	color: #00ff00;
 }
 
+h2.enorme {
+	color: #ff00ff;
+}
+
+.opetitolo {
+	color: #0f0;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+.opetitolodue {
+	color: #0f0;
+//	color: #0dcaf0;
+	font-size: .8em;
+}
+
+.centertitolo {
+	text-align: center;
+}
+
+h2.enormeday {
+	color: #0dcaf0;
+	text-align: left;
+}
+
+
 /*
 blockquote {
 	color: #043842;
