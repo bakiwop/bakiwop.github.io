@@ -136,6 +136,10 @@ p.titolo {
 .opelightblue { background: #d4eef9;  padding:3px 3px;}
 .opelightpurple { background: #e5d0ff;  padding:3px 3px;}
 
+.opered {
+	color:#b3555c;
+}
+
 
 .darkmode {
 	background-color: #000;
