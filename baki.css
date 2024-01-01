@@ -1,14 +1,15 @@
 body {
 	max-width: 750px;
 	font-family: Futura, Helvetica, Arial, sans-serif;
-/* really big font
+/* really big font */
 	font-size: 1.3em;
 	line-height: 2.0rem;
 	margin:40px auto;
-*/
+/*
 		font-size: 1.0rem;
 		line-height: 1.5rem;
 		margin: 1.0rem auto;
+*/
 	padding: 5px;
 
 }
@@ -16,16 +17,9 @@ body {
 
 /* for the piccolo screens */
 /* when using really big font above */
-/*
-@media (max-width: 500px) {
 
-	body {
-		font-size: 1.0rem;
-		line-height: 1.5rem;
-		margin: 1.0rem;
-	}
-}
-*/
+
+
 
 /* for dark mode auto */
 @media (prefers-color-scheme: dark) {
