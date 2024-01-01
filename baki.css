@@ -40,6 +40,11 @@ h2.enorme {
 	color: #ff00ff;
 }
 
+h3.enorme {
+	color: #ff00ff;
+	font-weight: normal;
+}
+
 h5.enorme {
 	color: #ff00ff;
 	font-weight: normal;
@@ -140,8 +145,8 @@ p.titolopiccolo {
 .lightpurple { background: #e5d0ff;  padding:25px 10px;}
 
 /* colors for background on ope */
-.opelightred { background: #ffd0d9; padding:0px 10px;}
-.opelightorange { background: #ffd7b5;  padding:3px 3px;}
+.opelightred { background: #ffd0d9; padding:3px 10px;}
+.opelightorange { background: #ffd7b5;  padding:3px 10px;}
 .opelightyellow { background: #ffffd0;  padding:3px 3px;}
 .opelightgreen { background: #d0ffd1;  padding:3px 3px;}
 .opelightblue { background: #d4eef9;  padding:3px 3px;}
@@ -149,7 +154,11 @@ p.titolopiccolo {
 
 .opered {
 //	color:#b3555c;
-	color:#cc868d;
+	color:#e72a2a;
+}
+.opeorange {
+	color:#f5900d;
+
 }
 
 
