@@ -10,6 +10,7 @@ body {
 		line-height: 1.5rem;
 		margin: 1.0rem auto;
 	padding: 5px;
+
 }
 
 
@@ -25,6 +26,14 @@ body {
 	}
 }
 */
+
+/* for dark mode auto */
+@media (prefers-color-scheme: dark) {
+	body {
+		color: #fff;
+		background-color: #101010;
+	}
+}
 
 
 h1, h2, h3, h4, h5 {
@@ -58,7 +67,7 @@ h5.enorme {
 
 .opetitolodue {
 	color: #0f0;
-//	color: #0dcaf0;
+/*	color: #0dcaf0; */
 	font-size: .8em;
 }
 
@@ -79,7 +88,7 @@ blockquote {
 */
 a.titolo, a.titolo:visited, a.titolo:hover, a:active, a:focus {
 	text-decoration: none;
-//	background-color: #fff;
+/*	background-color: #fff; */
 }
 
 a:hover {
@@ -88,7 +97,7 @@ a:hover {
 
 a.fine, a.fine:visited, a.fine:hover, a.fine:active, a.fine:focus {
 	text-decoration: none;
-//	color: #0dcaf0;
+/*	color: #0dcaf0; */
 	color: #00ff00;
 	font-size: .90em;
 }
@@ -153,7 +162,7 @@ p.titolopiccolo {
 .opelightpurple { background: #e5d0ff;  padding:3px 3px;}
 
 .opered {
-//	color:#b3555c;
+/*	color:#b3555c; */
 	color:#e72a2a;
 }
 .opeorange {
@@ -161,8 +170,9 @@ p.titolopiccolo {
 
 }
 
-
+/*
 .darkmode {
 	background-color: #000;
 	color:#fff;
 }
+*/
