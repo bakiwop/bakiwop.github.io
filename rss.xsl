@@ -13,11 +13,11 @@
 	<link href="https://baki.cc/baki.css" rel="stylesheet" />
 </head>
 <body>
-<p class="xslpagina"><a href="https://baki.cc"><img width="30" class="titolo" src="bakititolo.png" /></a></p>
+<p class="xslpagina"><a href="https://baki.cc"><img width="30" class="titolo xslpagina" src="bakititolo.png" /></a></p>
 <!-- works but not what i want
 <p class="verde" align="center"><xsl:value-of select="/rss/channel/title"/> rss :: <xsl:value-of select="/rss/channel/description"/></p>
 -->
-<p class="verde xslpagina" align="center">baki rss<br />caveat lector</p>
+<p class="verde xslpagina">baki rss<br />caveat lector</p>
 
 
 <xsl:for-each select="/rss/channel/item">
