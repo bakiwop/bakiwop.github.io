@@ -39,16 +39,6 @@ body {
 	}
 }
 
-	.primapagina {
-		text-align: center;
-	}
-	.piccola {
-		text-align: center;
-	}
-	.xslpagina {
-		text-align: center;
-	}
-
 
 /* for dark mode auto */
 @media (prefers-color-scheme: dark) {
