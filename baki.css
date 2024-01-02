@@ -26,7 +26,13 @@ body {
 		margin: 1.0rem;
 	}
 	p {
-				text-align: justify;
+		text-align: justify;
+	}
+	.primapagina {
+		text-align: center;
+	}
+	.piccola {
+		text-align: center;
 	}
 }
 
