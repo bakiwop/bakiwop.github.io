@@ -6,11 +6,15 @@ body {
 	line-height: 2.0rem;
 	margin:40px auto;
 */
-		font-size: 1.2rem;
+		font-size: 1.1rem;
 		line-height: 1.5rem;
 		margin: 1.2rem auto;
 	padding: 5px;
 
+}
+
+.slightlysmaller {
+	font-size: .7rem;
 }
 
 
@@ -41,12 +45,14 @@ body {
 
 
 /* for dark mode auto */
+/*
 @media (prefers-color-scheme: dark) {
 	body {
 		color: #fff;
-		background-color: #101010;
+		background-color: #000;
 	}
 }
+*/
 
 
 h1, h2, h3, h4, h5 {
