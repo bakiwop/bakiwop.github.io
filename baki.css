@@ -17,33 +17,6 @@ body {
 	font-size: .7rem;
 }
 
-.tagging {
-/*
-	color: #f56300;
-*/
-	color: #b903d8;
-}
-
-.opepostuno {
-	padding:10px;
-	background-color:#d6ffe0;
-}
-
-.opepostdue {
-	padding:10px;
-	background-color:#f9e6e6;
-}
-
-.opeposttre {
-	padding:10px;
-	background-color:#f4ecfa;
-}
-
-.opepostquattro {
-	padding:10px;
-	background-color:#ebf1f7;
-}
-
 
 /* for the piccolo screens */
 /* when using really big font above */
@@ -104,18 +77,6 @@ h3.enorme {
 h5.enorme {
 	color: #ff00ff;
 	font-weight: normal;
-}
-
-.opetitolo {
-	color: #0f0;
-	font-size: 2.5em;
-	font-weight: bold;
-}
-
-.opetitolodue {
-	/* color: #0f0; */
-	color: #ff00ff;
-	font-size: .8em;
 }
 
 .centertitolo {
@@ -199,19 +160,6 @@ p.titolopiccolo {
 .lightgreen { background: #d0ffd1;  padding:25px 10px;}
 .lightblue { background: #d4eef9;  padding:25px 10px;}
 .lightpurple { background: #e5d0ff;  padding:25px 10px;}
-
-/* colors for background on ope main page */
-.opelightred { background: #ffd0d9; padding:3px 10px;}
-.opelightorange { background: #ffd7b5;  padding:3px 10px;}
-.opelightyellow { background: #ffffd0;  padding:3px 3px;}
-.opelightgreen { background: #d0ffd1;  padding:3px 3px;}
-.opelightblue { background: #d4eef9;  padding:3px 3px;}
-.opelightpurple { background: #e5d0ff;  padding:3px 3px;}
-
-/* colors for text on color backgrounds */
-.opered { color:#e72a2a; }
-.opeorange { color:#f5900d; }
-.opepurple { color:#7b0290; }
 
 /*
 .darkmode {
