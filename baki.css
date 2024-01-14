@@ -1,14 +1,9 @@
 body {
 	max-width: 750px;
 	font-family: Futura, Helvetica, Arial, sans-serif;
-/* really big font
-	font-size: 1.3em;
-	line-height: 2.0rem;
-	margin:40px auto;
-*/
-		font-size: 1.1rem;
-		line-height: 1.5rem;
-		margin: 1.2rem auto;
+	font-size: 1.1rem;
+	line-height: 1.5rem;
+	margin: 1.2rem auto;
 	padding: 5px;
 
 }
@@ -130,6 +125,7 @@ a.fine:hover {
 
 .verde {
 	color: #00ff00;
+	text-align: center;
 }
 
 /*
@@ -167,3 +163,29 @@ p.titolopiccolo {
 	color:#fff;
 }
 */
+
+
+
+
+
+
+
+
+
+
+
+.opetitolo {
+	color: #0f0;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+.opetitolodue {
+	/* color: #0f0; */
+	color: #ff00ff;
+	font-size: .8em;
+}
+
+.opered { color:#e72a2a; }
+.opeorange { color:#f5900d; }
+.opepurple { color:#7b0290; }
