@@ -172,6 +172,22 @@ p.titolopiccolo {
 
 
 
+.tagging {
+	color: #b903d8;
+}
+a.tagging, a.tagging:visited, a.tagging:hover, a.tagging:active, a.tagging:focus {
+	text-decoration: none;
+	color: #b903d8;
+	font-size: .90em;
+}
+
+
+
+
+
+
+
+
 
 
 .opetitolo {
