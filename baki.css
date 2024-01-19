@@ -107,11 +107,17 @@ a.fine, a.fine:visited, a.fine:hover, a.fine:active, a.fine:focus {
 
 a.fine:hover {
 	background-color: #fcacfc;
+/*	background-color: #0dcaf0; */
+}
+
+.pink {
+	color: #fcacfc;
 }
 
 .piccola {
 	font-size: .5em;
-	color: #ff00ff;
+	color: #0dcaf0;
+/*	color: #ff00ff; */
 }
 
 .embiggen {
