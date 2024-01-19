@@ -1,0 +1,207 @@
+body {
+	max-width: 750px;
+	font-family: Futura, Helvetica, Arial, sans-serif;
+	font-size: 1.1rem;
+	line-height: 1.5rem;
+	margin: 1.2rem auto;
+	padding: 5px;
+
+}
+
+.slightlysmaller {
+	font-size: .7rem;
+}
+
+
+/* for the piccolo screens */
+/* when using really big font above */
+/* or use of body font info below above */
+
+@media (max-width: 500px) {
+
+	body {
+		font-size: 1.0rem;
+		line-height: 1.5rem;
+		margin: 1.0rem;
+	}
+	p {
+		text-align: justify;
+	}
+	.primapagina {
+		text-align: center;
+	}
+	.piccola {
+		text-align: center;
+	}
+	.xslpagina {
+		text-align: center;
+	}
+}
+
+
+/* for dark mode auto */
+/*
+@media (prefers-color-scheme: dark) {
+	body {
+		color: #fff;
+		background-color: #000;
+	}
+}
+*/
+
+
+h1, h2, h3, h4, h5 {
+	text-align: center;
+	line-height: 2.5rem;
+}
+
+h1.enorme {
+	color: #00ff00;
+}
+
+h2.enorme {
+	/* color: #ff00ff; */
+	color: #0dcaf0;
+}
+
+h3.enorme {
+	color: #ff00ff;
+	font-weight: normal;
+}
+
+h5.enorme {
+	color: #ff00ff;
+	font-weight: normal;
+}
+
+.centertitolo {
+	text-align: center;
+}
+
+h2.enormeday {
+	color: #0dcaf0;
+	text-align: left;
+}
+
+
+/*
+blockquote {
+	color: #043842;
+}
+*/
+a.titolo, a.titolo:visited, a.titolo:hover, a:active, a:focus {
+	text-decoration: none;
+/*	background-color: #fff; */
+}
+
+a:hover {
+	color: #0dcaf0;
+}
+
+a.fine, a.fine:visited, a.fine:hover, a.fine:active, a.fine:focus {
+	text-decoration: none;
+/*	color: #0dcaf0; */
+	color: #00ff00;
+	font-size: .90em;
+}
+
+a.fine:hover {
+	background-color: #fcacfc;
+}
+
+.piccola {
+	font-size: .5em;
+	color: #ff00ff;
+}
+
+.embiggen {
+	text-align: center;
+}
+
+.piccolanormale {
+	font-size: 1.2em;
+	color: #ff00ff;
+}
+
+.verde {
+	color: #00ff00;
+	text-align: center;
+}
+
+/*
+img.titolo {
+	width: 50px;
+	height: 50px;
+}
+*/
+
+p.titolo {
+	text-align: center;
+	margin-bottom: 45px;		
+}
+
+p.titolopiccolo {
+	text-align: center;
+	margin-bottom: 5px;		
+}
+
+
+.illuminated{font-size:.7em;font-weight:900;font-family:courier,courier new;color:#FF3C00;}
+
+
+/* colors for background on index */
+.lightred { background: #ffd0d9; padding:25px 10px;}
+.lightorange { background: #ffd7b5;  padding:25px 10px;}
+.lightyellow { background: #ffffd0;  padding:25px 10px;}
+.lightgreen { background: #d0ffd1;  padding:25px 10px;}
+.lightblue { background: #d4eef9;  padding:25px 10px;}
+.lightpurple { background: #e5d0ff;  padding:25px 10px;}
+
+/*
+.darkmode {
+	background-color: #000;
+	color:#fff;
+}
+*/
+
+
+
+
+
+
+
+
+
+.tagging {
+	color: #b903d8;
+}
+a.tagging, a.tagging:visited, a.tagging:hover, a.tagging:active, a.tagging:focus {
+	text-decoration: none;
+	color: #b903d8;
+	font-size: .90em;
+}
+
+
+
+
+
+
+
+
+
+
+.opetitolo {
+	color: #0f0;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+.opetitolodue {
+	/* color: #0f0; */
+	color: #ff00ff;
+	font-size: .8em;
+}
+
+.opered { color:#e72a2a; }
+.opeorange { color:#f5900d; }
+.opepurple { color:#7b0290; }
