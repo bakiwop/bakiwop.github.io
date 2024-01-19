@@ -13,7 +13,7 @@
 	<link href="https://baki.cc/baki.css" rel="stylesheet" />
 </head>
 <body>
-<p class="xslpagina" align="center"><a href="https://baki.cc"><img width="30" class="titolo xslpagina" src="bakititolo.png" /></a></p>
+<p class="xslpagina" align="center"><a href="https://baki.cc"><img width="30" class="titolo xslpagina" src="media/bakititolo.png" /></a></p>
 <!-- works but not what i want
 <p class="verde" align="center"><xsl:value-of select="/rss/channel/title"/> rss :: <xsl:value-of select="/rss/channel/description"/></p>
 -->
