@@ -71,3 +71,7 @@ a, a:visited, a:active, a:hover, a:focus {
 p.titolopiccolo {
 	text-align: center;	
 }
+
+.embiggen {
+	width:100%;
+}
