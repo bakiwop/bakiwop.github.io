@@ -63,7 +63,11 @@ a, a:visited, a:active, a:hover, a:focus {
 	color: #0dcaf0;
 }
 
+.you {
+	font-size: .8em;
+	color: #ebc944;
+}
+
 p.titolopiccolo {
-	text-align: center;
-/*	margin-bottom: 5px; */		
+	text-align: center;	
 }
