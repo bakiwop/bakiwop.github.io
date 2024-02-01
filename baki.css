@@ -16,8 +16,10 @@ body {
 @media (max-width: 500px) {
 
 	body {
+/*
 		font-size: 1.2rem;
 		line-height: 1.6rem;
+*/
 		margin: 1.0rem;
 	}
 	p {
