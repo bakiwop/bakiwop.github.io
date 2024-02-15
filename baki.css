@@ -29,6 +29,7 @@ body {
 
 
 /* for dark mode auto */
+/*
 @media (prefers-color-scheme: dark) {
 	body {
 		color: #fff;
@@ -37,6 +38,7 @@ body {
 
 
 }
+*/
 
 h1 {
 	text-align: center;
