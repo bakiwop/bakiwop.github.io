@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+			<atom:link href="https://baki.cc/rss.xml" rel="self" type="application/rss+xml" />
+			<title>baki</title>
+			<link>https://baki.cc/</link>
+			<description>Caveat Lector</description>
+			<lastBuildDate>Sat, 17 Feb 2024 11:50:42 PDT</lastBuildDate>
+			<language>en-us</language>
+		<item>
+			<title>22</title>
+			<link>https://baki.cc/uno.html#22</link>
+			<description>
+
+				Grief is a slippery little fucker...
+
+			</description>
+			<pubDate>Sat, 17 Feb 2024 11:50:42 PDT</pubDate>
+			<guid>https://baki.cc/uno.html#22</guid>
+		</item>
+		<item>
+			<title>21</title>
+			<link>https://baki.cc/uno.html#21</link>
+			<description>
+
+				Until yesterday we had a Ford Escape Hybrid. It's a quirky little vehicle with decent fuel economy. We averaged low 40s MPG most of the time... 
+
+			</description>
+			<pubDate>Sat, 17 Jan 2024 11:42:42 PDT</pubDate>
+			<guid>https://baki.cc/uno.html#21</guid>
+		</item>
+	</channel>
+</rss>
