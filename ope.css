@@ -68,12 +68,15 @@
 		}
 		blockquote {
 			background:#f9f9f9;
+			background:#fde8fe;
 			border-left:10px solid #ccc;
+			border-left:10px solid #fddaff;
 			margin:1.5em 10px;
 			padding:.5em 10px;
 		}
 		blockquote:before {
 			color:#ccc;
+			color:#fddaff;
 			content:open-quote close-quote;
 			font-size:4em;
 			line-height:.1em;
