@@ -17,16 +17,18 @@
 			font-weight:700;
 		}
 		.tag {
-			font-size:1.2em;
-			font-weight:300;
+			font-size:.8em;
+			/* font-weight:300; */
 			font-style:italic;
 			color:#000;
+			color:#db8ae0;
 		}
 		.pound {
-			font-size:1.1em;
-			font-weight:300;
+			font-size:.9em;
+			/* font-weight:300; */
 			font-style:italic;
 			color:#000;
+			color:#c45cca;
 		}
 		a, a:visited {
 			text-decoration: none;
@@ -92,4 +94,7 @@
 			text-align: center;
 			color: #bbb;
 			font-size: .7em;
+		}
+		.divide, .name {
+			color: #c3d4b5;
 		}
