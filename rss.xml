@@ -5,18 +5,18 @@
 			<title>baki</title>
 			<link>https://baki.cc/</link>
 			<description>Caveat Lector</description>
-			<lastBuildDate>Wed, 18 Dec 2024 11:45:42 PDT</lastBuildDate>
+			<lastBuildDate>Wed, 18 Dec 2024 16:22:42 PDT</lastBuildDate>
 			<language>en-us</language>
 		<item>
-			<title>Mattifesto</title>
-			<link>https://baki.cc/ope00001.html#0000000005</link>
+			<title>Site Changes</title>
+			<link>https://baki.cc/ope00001.html#0000000006</link>
 			<description>
 
-				7th grade basketball game. Player steps on my foot. Pain is so bad....
+				Many changes around here layout-wise. I've been wanting to do a journal kinda thing for a while now, but I didn't want to use a CMS, they usually end up breaking (and when that happens, it can be a pain in the butt to fix, or, you lose all your data) and there isn't as much control over the layout (not that this layout is the layout to end all layouts, but I know what most of it does since I coded it myself, and changes are pretty easy). And, let's face it, I'm kinda cheap, so I don't want to pay for web hosting if I don't have to....
 
 			</description>
-			<pubDate>Wed, 18 Dec 2024 11:45:42 PDT</pubDate>
-			<guid>https://baki.cc/ope00001.html#0000000005</guid>
+			<pubDate>Wed, 18 Dec 2024 16:22:42 PDT</pubDate>
+			<guid>https://baki.cc/ope00001.html#0000000006</guid>
 		</item>
 	</channel>
 </rss>
