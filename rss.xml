@@ -1,28 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>baki</title>
-		<link>https://baki.cc</link>
-		<description>caveat lector</description>
-		<atom:link href="http://dallas.example.com/rss.xml" rel="self" type="application/rss+xml" />
-		<language>en-us</language>
-		<lastBuildDate>Thu, 20 Mar 2025 11:00:42 PDT</lastBuildDate>
+			<atom:link href="https://baki.cc/rss.xml" rel="self" type="application/rss+xml" />
+			<title>baki</title>
+			<link>https://baki.cc/</link>
+			<description>Caveat Lector</description>
+			<lastBuildDate>Wed, 05 Mar 2025 10:01:42 PDT</lastBuildDate>
+			<language>en-us</language>
 		<item>
-			<title>2025.03.20</title>
-			<link>https://baki.cc/ope2025.03.html#03</link>
-			<description>#pnw</description>
-			<content:encoded>
+			<title>Convenience Store Woman</title>
+			<link>https://baki.cc/ope2025.03.html#02</link>
+			<description>
 
-<p>Forget the Twin Cities, we need to move to the Cascades: <a href="https://www.statesmanjournal.com/story/news/2025/03/19/winter-storm-warning-snow-oregon-cascades/82555316007/">Winter storm warning issued for 1 to 3 feet of snow on Oregon Cascade mountain roads</a></p>
-<p align="center">&nbsp;&nbsp;<span class="divide">~</span>&nbsp;&nbsp;</p>
-<p><a href="https://www.hereisoregon.com/places/2025/03/oregon-town-named-one-of-the-safest-spring-break-destinations-in-the-us.html">Oregon town named one of the safest spring break destinations in the U.S.</a><p>
-<blockquote>
-One of our state’s go-to spring break destinations, Cannon Beach, was recently named one of the safest spring break destinations in the U.S. in a new trending study that identified several threats to travelers. 
-</blockquote>
-<p>Back home we say we're going to the lake. That's because it's 90 degrees out and we're eventually gonna hop in the lake to cool off and have some fun. Out here they say they're going to the beach. Because the ocean in Oregon will kill you - riptides, sneaker waves, diamond hard volcanic rock, and an entire ocean of things that will eat you. Alive or dead. And the water is about 45 degrees so nobody goes into the water anyway. And the air temperature is about 55 degrees... if you're lucky... and the 20 mph wind is blowing sand all over the place. I'm not sure why people go to the beach on spring break around here. I mean, people set up tents on the beach to get out of the wind and the stinging sand and the cold. I once saw a couple of teenagers wearing swimsuits - this was about eight years ago - and I couldn't believe there were people brave enough to try that. 
+				#books - Finished Convenience Store Woman.
 
-			</content:encoded>
-			<pubDate>Thu, 13 Mar 2025 23:00:00 GMT</pubDate>
-			<guid>https://baki.cc/ope2025.03.html#03</guid>
+			</description>
+			<pubDate>Wed, 05 Mar 2025 10:01:42 PDT</pubDate>
+			<guid>https://baki.cc/ope2025.03.html#02</guid>
+		</item>
+		<item>
+			<title>Slutty Romance Protagonist</title>
+			<link>https://baki.cc/ope00004.html#038</link>
+			<description>
+
+				#ope - Have you ever been so despised by a coworker that they wrote an entire slutty romance novel about you, making you the bumbling, dunce-y, idiot-y, homosexual protagonist? I have.
+
+			</description>
+			<pubDate>Thu, 27 Feb 2025 12:19:42 PDT</pubDate>
+			<guid>https://baki.cc/ope00004.html#038</guid>
+		</item>
+		<item>
+			<title>Should We Stay or Should We Go Now</title>
+			<link>https://baki.cc/ope00004.html#037</link>
+			<description>
+
+				#ope - But doing the smart thing isn't always the smart thing?
+
+			</description>
+			<pubDate>Thu, 27 Feb 2025 12:18:42 PDT</pubDate>
+			<guid>https://baki.cc/ope00004.html#037</guid>
+		</item>
+		<item>
+			<title>Wind</title>
+			<link>https://baki.cc/ope00004.html#036</link>
+			<description>
+
+				#yard - The wind. She blows.
+
+			</description>
+			<pubDate>Mon, 24 Feb 2025 17:19:42 PDT</pubDate>
+			<guid>https://baki.cc/ope00004.html#036</guid>
+		</item>
+		<item>
+			<title>Electric Company - Words Words Words Words</title>
+			<link>https://baki.cc/ope00004.html#035</link>
+			<description>
+
+				#library - Words Words Words Words starring Easy Reader and Valerie the Librarian.
+
+			</description>
+			<pubDate>Mon, 24 Feb 2025 14:56:42 PDT</pubDate>
+			<guid>https://baki.cc/ope00004.html#035</guid>
+		</item>
+		<item>
+			<title>2025.02.23</title>
+			<link>https://baki.cc/ope00004.html#034</link>
+			<description>
+
+				#pnw - Three weather warnings: high wind watch, high surf advisory, flood watch.
+
+			</description>
+			<pubDate>Sun, 23 Feb 2025 20:53:42 PDT</pubDate>
+			<guid>https://baki.cc/ope00004.html#034</guid>
+		</item>
+		<item>
+			<title>So Goddamn Good</title>
+			<link>https://baki.cc/ope00004.html#033</link>
+			<description>
+
+				#earworm - So Goddamn Good by Lords of Acid.
+
+			</description>
+			<pubDate>Sat, 22 Feb 2025 20:51:42 PDT</pubDate>
+			<guid>https://baki.cc/ope00004.html#033</guid>
+		</item>
+		<item>
+			<title>Leaving Early</title>
+			<link>https://baki.cc/ope00004.html#032</link>
+			<description>
+
+				#library - Text I sent my coworkers today. This is known as "calling in library" - Leaving at five again today. Between having to find the contact info for the New England Journal of Medicine for a patron who wanted to let them know about their home remedy for anal polyps (which they described to me in exacting detail, despite my protestations), the patron who told me all about their alien abduction involving a probe and a cow, the patron who stated they like to sit around where I am because they like to suck on my vibe, and the half dozen patrons who felt compelled to share their Trump is great and really smart theories despite me telling them I don't discuss religion or politics at work... well... I'm just finished for the week.
+
+			</description>
+			<pubDate>Fri, 21 Feb 2025 16:08:42 PDT</pubDate>
+			<guid>https://baki.cc/ope00004.html#032</guid>
 		</item>
 	</channel>
 </rss>
