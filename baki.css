@@ -1,7 +1,7 @@
-body{margin:20px auto;max-width:850px;line-height:1.6;font-size:18px;color:#444;background-color:#fff;}
+body{margin:20px auto;max-width:850px;line-height:1.6;font-size:18px;color:#444;background-color:#fff;padding:10px;}
 header{text-align:center;margin-bottom:40px;}
 h5.perma{margin-bottom:-20px;color:#0dcaf0;}
-.small{color:#0dcaf0;font-size:14px;font-weight:bold;}
+.small{color:#0dcaf0;font-size:14px;}
 img{max-width:100%;height:auto;}
 video{max-width:100%;height:auto;}
 iframe{aspect-ratio:16/9;height:auto;width:100%;}
