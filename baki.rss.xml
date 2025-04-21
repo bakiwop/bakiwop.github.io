@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<atom:link href="https://baki.cc/baki.rss.xml" rel="self" type="application/rss+xml" />
+		<title>baki</title>
+		<link>https://baki.cc/</link>
+		<description>Caveat Lector</description>
+		<lastBuildDate>Mon, 21 Apr 2025 14:42:42 PDT</lastBuildDate>
+		<language>en-us</language>
+		<item>
+			<title>2025.04.21</title>
+			<link>https://baki.cc/serial.1.html#10</link>
+
+			<content:encoded>
+<![CDATA[
+		<p><a href="https://www.bbc.com/news/newsbeat-30958073">Divers caught in sperm whale's giant underwater poo cloud</a></p>
+		<blockquote>
+			<p>When Keri Wilk dived into clear waters off the island of Dominica, swimming through a massive whale poo was not in the plan. But it's what happened.</p>
+			<p>"At first, it seemed like a regular bowel movement," Keri explained.</p>
+			<p>"But rather than continuing its dive down, it remained at the surface and continued to defecate for a startling length of time.</p>
+			<p>The "poonado" then spread through the water - ending up in Keri's mouth - as the whale flapped its tail.</p>
+		</blockquote>
+]]>
+			</content:encoded>
+			<pubDate>Mon, 21 Apr 2025 14:42:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.1.html#10</guid>
+		</item>
+	</channel>
+</rss>
