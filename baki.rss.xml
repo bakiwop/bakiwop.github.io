@@ -5,12 +5,33 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Mon, 21 Apr 2025 14:42:42 PDT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Apr 2025 10:23:42 PDT</lastBuildDate>
 		<language>en-us</language>
+
+
+		<item>
+			<title>2025.04.22</title>
+			<link>https://baki.cc/serial.1.html#4</link>
+			<description>Nunchucks!</description>
+			<content:encoded>
+<![CDATA[
+		<p>nunchuckin' while waitin' for the bus.</p>
+		<iframe src="https://www.youtube.com/embed/Wn5HOTQkDVQ?si=kmEVYJLtB8xBx1Wh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+]]>
+			</content:encoded>
+			<pubDate>Tue, 22 Apr 2025 10:23:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.1.html#4</guid>
+		</item>
+
+
+
+
+
+
 		<item>
 			<title>2025.04.21</title>
 			<link>https://baki.cc/serial.1.html#10</link>
-
+			<description>Divers caught in sperm whale's giant underwater poo cloud</description>
 			<content:encoded>
 <![CDATA[
 		<p><a href="https://www.bbc.com/news/newsbeat-30958073">Divers caught in sperm whale's giant underwater poo cloud</a></p>
@@ -25,5 +46,8 @@
 			<pubDate>Mon, 21 Apr 2025 14:42:42 PDT</pubDate>
 			<guid>https://baki.cc/serial.1.html#10</guid>
 		</item>
+
+
+
 	</channel>
 </rss>
