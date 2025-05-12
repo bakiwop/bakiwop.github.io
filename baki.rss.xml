@@ -5,8 +5,29 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Sun, 11 May 2025 13:12:42 PDT</lastBuildDate>
+		<lastBuildDate>Mon, 12 May 2025 10:16:42 PDT</lastBuildDate>
 		<language>en-us</language>
+
+
+
+		<item>
+			<title>2025.05.12</title>
+			<link>https://baki.cc/serial.4.html#30</link>
+			<description>A star has been destroyed by a wandering supermassive black hole</description>
+			<content:encoded>
+<![CDATA[
+		<p><a href="https://arstechnica.com/science/2025/05/a-star-has-been-destroyed-by-a-wandering-supermassive-black-hole/">A star has been destroyed by a wandering supermassive black hole</a></p>
+		<blockquote>
+		<p>Back in 2024, a system set up to identify objects that suddenly brighten found something unusual. Unfortunately, the automated system that was supposed to identify it couldn't figure out what it was looking at. Now, about a year later, we know it's the first tidal disruption event—meaning a star being ripped apart by a supermassive black hole—identified at visual wavelengths. It's also a rather unusual one, in that the supermassive black hole in question does not reside at the center of its galaxy. Instead, there's an even more massive object there, which is feeding on matter at the same time.</p>
+		<p>All of the observations indicated that AT2024tvd is a tidal disruption event. For example, it maintained a high temperature throughout the observations, unlike a supernova, which tends to cool down over time. There were also fewer high-energy X-rays than one would expect from a supernova. The UV spectrum also looked like previously identified tidal disruption events, with the signature of elements like carbon and nitrogen that don't require a supernova to be produced. That makes this the fourth tidal disruption event we've identified that's the product of a supermassive black hole not located at the center of the galaxy. It's also the first that was initially identified at visible wavelengths.</p>
+		</blockquote>
+]]>
+			</content:encoded>
+			<pubDate>Mon, 12 May 2025 10:15:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.4.html#30</guid>
+		</item>
+
+
 
 
 
