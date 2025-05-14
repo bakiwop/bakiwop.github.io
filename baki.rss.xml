@@ -5,8 +5,26 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Tue, 13 May 2025 10:12:42 PDT</lastBuildDate>
+		<lastBuildDate>Wed, 14 May 2025 15:00:42 PDT</lastBuildDate>
 		<language>en-us</language>
+
+
+
+		<item>
+			<title>2025.05.14</title>
+			<link>https://baki.cc/serial.4.html#32</link>
+			<description>soar on the coast.</description>
+			<content:encoded>
+<![CDATA[
+		<p>soar on the coast.</p>
+		<p><iframe src="https://www.youtube.com/embed/xDyruQEGIrs?si=CxpUzcQG7Od9r-3R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+]]>
+			</content:encoded>
+			<pubDate>Wed, 14 May 2025 15:00:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.4.html#32</guid>
+		</item>
+
+
 
 
 
@@ -20,7 +38,7 @@
 ]]>
 			</content:encoded>
 			<pubDate>Tue, 13 May 2025 10:12:42 PDT</pubDate>
-			<guid>https://baki.cc/serial.4.html#30</guid>
+			<guid>https://baki.cc/serial.4.html#31</guid>
 		</item>
 
 
