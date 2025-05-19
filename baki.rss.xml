@@ -5,15 +5,35 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Sun, 18 May 2025 13:24:42 PDT</lastBuildDate>
+		<lastBuildDate>Mon, 19 May 2025 12:01:42 PDT</lastBuildDate>
 		<language>en-us</language>
+
+
+
+		<item>
+			<title>2025.05.19</title>
+			<link>https://baki.cc/serial.4.html#36</link>
+			<description>CERN gears up to ship antimatter across Europe</description>
+			<content:encoded>
+<![CDATA[
+		<p><a href="https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/">CERN gears up to ship antimatter across Europe</a></p>
+		<blockquote>
+		<p>There's a lot of matter around, which ensures that any antimatter produced experiences a very short lifespan. Studying antimatter, therefore, has been extremely difficult. But that's changed a bit in recent years, as CERN has set up a facility that produces and traps antimatter, allowing for extensive studies of its properties, including entire anti-atoms.</p>
+		</blockquote>
+]]>
+			</content:encoded>
+			<pubDate>Mon, 19 May 2025 12:01:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.4.html#36</guid>
+		</item>
+
+
 
 
 
 		<item>
 			<title>2025.05.18</title>
 			<link>https://baki.cc/serial.4.html#35</link>
-			<description>wICE detects the conversion of lead into gold at the Large Hadron Collider</description>
+			<description>ALICE detects the conversion of lead into gold at the Large Hadron Collider</description>
 			<content:encoded>
 <![CDATA[
 		<p><a href="https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc">ALICE detects the conversion of lead into gold at the Large Hadron Collider</a></p>
