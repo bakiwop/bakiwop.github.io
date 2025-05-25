@@ -5,8 +5,26 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Sat, 24 May 2025 16:48:42 PDT</lastBuildDate>
+		<lastBuildDate>Sun, 25 May 2025 11:08:42 PDT</lastBuildDate>
 		<language>en-us</language>
+
+
+
+
+
+		<item>
+			<title>2025.05.25</title>
+			<link>https://baki.cc/serial.6.html#42</link>
+			<description>making the bed - mt. st. helens</description>
+			<content:encoded>
+<![CDATA[
+		<p>making the bed: mt. st. helens (<a href="https://commons.wikimedia.org/wiki/File:Mount_Saint_Helens_from_the_air,_with_Mount_Adams_in_background_02.jpg">for comparison</a>)</p>
+		<p><img src="https://baki.cc/media/making.the.bed.mt.st.helens.jpg" alt="Bed cover and sheets formed into Mt. St. Helens." title="making the bed - mt. st. helens" /></p>
+]]>
+			</content:encoded>
+			<pubDate>Sun, 25 May 2025 11:08:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.6.html#42</guid>
+		</item>
 
 
 
@@ -18,12 +36,12 @@
 			<description>making the bed - waterfall</description>
 			<content:encoded>
 <![CDATA[
-		<p>making the bed: paper airplane</p>
-		<p><img src="media/making.the.bed.paper.airplane.jpg" alt="Bed cover and sheets formed into a paper airplane." title="making the bed - paper airplane" /></p>
+		<p>making the bed: waterfall</p>
+		<p><img src="https://baki.cc/media/making.the.bed.waterfall.jpg" alt="Bed cover and sheets formed into a waterfall." title="making the bed - paper waterfall" /></p>
 ]]>
 			</content:encoded>
-			<pubDate>Sat, 24 May 2025 16:48:42 PDT</pubDate>
-			<guid>https://baki.cc/serial.6.html#41</guid>
+			<pubDate>Sat, 24 May 2025 16:49:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.6.html#41a</guid>
 		</item>
 
 
@@ -37,7 +55,7 @@
 			<content:encoded>
 <![CDATA[
 		<p>making the bed: paper airplane</p>
-		<p><img src="media/making.the.bed.paper.airplane.jpg" alt="Bed cover and sheets formed into a paper airplane." title="making the bed - paper airplane" /></p>
+		<p><img src="https://bakicc/media/making.the.bed.paper.airplane.jpg" alt="Bed cover and sheets formed into a paper airplane." title="making the bed - paper airplane" /></p>
 ]]>
 			</content:encoded>
 			<pubDate>Fri, 23 May 2025 00:00:42 PDT</pubDate>
