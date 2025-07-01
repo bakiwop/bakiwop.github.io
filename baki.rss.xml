@@ -5,8 +5,30 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Mon, 30 Jun 2025 14:52:42 PDT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Jul 2025 12:28:42 PDT</lastBuildDate>
 		<language>en-us</language>
+
+
+
+
+
+		<item>
+			<title>2025.07.01</title>
+			<link>https://baki.cc/serial.9.html#80</link>
+			<description>Pacific sunset.</description>
+			<content:encoded>
+<![CDATA[
+		<p>Pacific sunset.</p>
+		<p>
+			<video autoplay loop>
+				<source src="media/ope.lazy.sunset.mp4" type="video/mp4">
+			</video>
+		</p>
+]]>
+			</content:encoded>
+			<pubDate>Tue, 01 Jul 2025 12:28:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.9.html#80</guid>
+		</item>
 
 
 
