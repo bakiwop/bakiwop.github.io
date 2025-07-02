@@ -5,8 +5,26 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Tue, 01 Jul 2025 12:28:42 PDT</lastBuildDate>
+		<lastBuildDate>Wed, 02 Jul 2025 13:00:42 PDT</lastBuildDate>
 		<language>en-us</language>
+
+
+
+
+
+		<item>
+			<title>2025.07.02</title>
+			<link>https://baki.cc/serial.9.html#81</link>
+			<description>Nunchuck bus stop parte seconda.</description>
+			<content:encoded>
+<![CDATA[
+		<p>Nunchuck bus stop parte seconda</p>
+		<p><iframe src="https://www.youtube.com/embed/nqrUwuhpr1E?si=L2A96HAyGAEJ24L_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+]]>
+			</content:encoded>
+			<pubDate>Wed, 02 Jul 2025 13:00:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.9.html#81</guid>
+		</item>
 
 
 
@@ -21,7 +39,7 @@
 		<p>Pacific sunset.</p>
 		<p>
 			<video autoplay loop>
-				<source src="media/ope.lazy.sunset.mp4" type="video/mp4">
+				<source src="https://baki.cc/media/ope.lazy.sunset.mp4" type="video/mp4">
 			</video>
 		</p>
 ]]>
