@@ -5,7 +5,7 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Thu, 10 Jul 2025 13:16:42 PDT</lastBuildDate>
+		<lastBuildDate>Thu, 10 Jul 2025 13:24:42 PDT</lastBuildDate>
 		<language>en-us</language>
 
 
@@ -13,8 +13,26 @@
 
 
 		<item>
+			<title>2025.07.10-2</title>
+			<link>https://baki.cc/serial.10.html#90</link>
+			<description>alternate text.</description>
+			<content:encoded>
+<![CDATA[
+		<h6 class="perma"><a class="pink" href="serial.10.html#90">2025.07.10-2</a> :: <a class="pink" href="ope.2.html">ope</a></h6>
+		<p><a href="https://www.smbc-comics.com/comic/wasp">ooooooo. alternate punchline.</a> "The call was coming from indside the caterpillar!"</p>
+]]>
+			</content:encoded>
+			<pubDate>Thu, 10 Jul 2025 13:24:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.10.html#90</guid>
+		</item>
+
+
+
+
+
+		<item>
 			<title>2025.07.10</title>
-			<link>https://baki.cc/serial.9.html#89</link>
+			<link>https://baki.cc/serial.10.html#89</link>
 			<description>snowflake. yard.</description>
 			<content:encoded>
 <![CDATA[
@@ -22,8 +40,8 @@
 		<p><img src="https://baki.cc/media/yard.snowflake.jpg" alt="white kitty sitting on the window sill overlooking the back yard with blooming flowers and a coastal forest." title="snowflake. yard." /></p>
 ]]>
 			</content:encoded>
-			<pubDate>Thu, 10 Jul 2025 13:16:42 PDT</pubDate>
-			<guid>https://baki.cc/serial.9.html#89</guid>
+			<pubDate>Thu, 10 Jul 2025 13:16:43 PDT</pubDate>
+			<guid>https://baki.cc/serial.10.html#89</guid>
 		</item>
 
 
