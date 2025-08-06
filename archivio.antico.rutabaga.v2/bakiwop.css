@@ -1,0 +1,152 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #036;
+	font-family: verdana, sans-serif;
+	font-size: 12px;
+	color: #fff;
+	line-height: 15px;
+}
+
+
+#bakione {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 373px;
+	height: 251px;
+	background: url('images/bakione.jpg') no-repeat;
+}
+
+#bakitwo {
+	position: absolute;
+	top: 0px;
+	left: 373px;
+	width: 375px;
+	height: 53px;
+	background: url('images/bakitwo.jpg') no-repeat;
+}
+
+#crazyhead {
+	position: absolute;
+	top: 293px;
+	left: 132px;
+	width: 110px;
+	height: 70px;
+	background: url('images/crazyhead.gif') no-repeat;
+}
+
+#righthand {
+	position: absolute;
+	top: 373px;
+	left: 19px;
+	width: 15px;
+	height: 17px;
+	background: url('images/righthand.gif') no-repeat;
+	z-index: 10;
+}
+
+#lefthand {
+	position: absolute;
+	top: 373px;
+	left: 340px;
+	width: 15px;
+	height: 17px;
+	background: url('images/lefthand.gif') no-repeat;
+	z-index: 10;
+}
+
+#stuffdark {
+	position: absolute;
+	top: 53px;
+	left: 373px;
+	margin: 0px;
+	padding: 0px;
+	border-style: solid;
+	border-color: #000;
+	border-width: 1px;
+}
+
+#stufflight {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	padding: 0px;
+	border-style: solid;
+	border-color: #69c;
+	border-width: 1px;
+}
+
+#stuff {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	padding: 10px 10px 100px 10px;
+	background: #369 url(images/bakithree.jpg) no-repeat top left;
+}
+
+#extradark {
+	position: absolute;
+	top: 363px;
+	left: 20px;
+	width: 333px;
+	margin: 0px;
+	padding: 0px;
+	border-style: solid;
+	border-color: #000;
+	border-width: 1px;
+	text-align: center;
+}
+
+#extralight {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 331px;
+	margin: 0px;
+	padding: 0px;
+	border-style: solid;
+	border-color: #69c;
+	border-width: 1px;
+	background: #369;
+	text-align: center;
+}
+
+#extra {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 311px;
+	margin: 0px;
+	padding: 10px;
+	background: #369;
+	text-align: center;
+	font-size: 9px;
+}
+
+h3, h4 {
+	color: #f4f4f4;
+	font-family: Georgia, Times, 'Times New Roman', Palatino, serif;
+	font-size: 24px;
+	line-height: 22px;
+}
+
+.white {
+	font-family: Georgia, Times, 'Times New Roman', Palatino, serif;
+	color: #cff;
+	font-size: 26px;
+}
+
+a {
+	color: #cff;
+}
+
+a:hover {
+	color: #9cf;
+}
+
+.comments {
+	font-size: 10px;
+}

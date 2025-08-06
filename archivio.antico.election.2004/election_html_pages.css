@@ -1,0 +1,41 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font: 9px verdana, geneva, sans-serif;
+	color: #006;
+	background-color: #E3E3EA;
+
+}
+
+h4 {
+	margin: 0px 0px -5px 0px;
+	padding: 0px;
+	font: 10px verdana, geneva, sans-serif;
+	font-weight: strong;
+	color: #006;
+}
+
+h5 {
+	margin: 5px 0px 5px 0px;
+	padding: 0px;
+	font: 9px verdana, geneva, sans-serif;
+	font-weight: strong;
+	color: #006;
+}
+
+a {
+	color: #900;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #600;
+}
+
+img {
+	border: 0px;
+}
