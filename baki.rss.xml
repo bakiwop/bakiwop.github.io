@@ -5,8 +5,28 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Sat, 09 Aug 2025 22:56:42 PDT</lastBuildDate>
+		<lastBuildDate>Mon, 11 Aug 2025 21:42:42 PDT</lastBuildDate>
 		<language>en-us</language>
+
+
+
+
+
+		<item>
+			<title>2025.08.11</title>
+			<link>https://baki.cc/serial.14.html#112</link>
+			<description>golden hour. netarts.</description>
+			<content:encoded>
+<![CDATA[
+		<p>Golden hour. Netarts.</p>
+		<video muted controls>
+			<source src="https://baki.cc/media/pnw.oregon.coast.golden.hour.netarts.mp4" type="video/mp4">
+		</video>
+]]>
+			</content:encoded>
+			<pubDate>Mon, 11 Aug 2025 21:41:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.14.html#120</guid>
+		</item>
 
 
 
