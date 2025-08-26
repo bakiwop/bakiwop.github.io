@@ -5,8 +5,30 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Mon, 25 Aug 2025 11:30:42 PDT</lastBuildDate>
+		<lastBuildDate>Tue, 26 Aug 2025 15:02:42 PDT</lastBuildDate>
 		<language>en-us</language>
+
+
+
+
+
+		<item>
+			<title>2025.08.26</title>
+			<link>https://baki.cc/serial.15.html#138</link>
+			<description>Fog playing in the treetops.</description>
+			<content:encoded>
+<![CDATA[
+		<p>Fog playing in the treetops.</p>
+		<p>
+		<video controls>
+			<source src="media/yard.fog.trees.mp4" type="video/mp4">
+		</video> 
+		</p>
+]]>
+			</content:encoded>
+			<pubDate>Tue, 26 Aug 2025 15:02:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.14.html#138</guid>
+		</item>
 
 
 
