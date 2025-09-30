@@ -16,6 +16,8 @@ body {
 	background-color: light-dark(#fff, #000);
 }
 
+sup{font-size:.7em;font-weight:900;font-family:courier,courier new;color:#0df027;}
+
 header{text-align:center;margin-bottom:40px;}
 .navdivide{color:#0df027;}
 h6.perma{margin-bottom:-15px;color:#0df027;}
