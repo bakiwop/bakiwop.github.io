@@ -5,8 +5,27 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Sun, 19 Oct 2025 22:44:42 PDT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Oct 2025 10:08:42 PDT</lastBuildDate>
 		<language>en-us</language>
+
+
+
+
+
+		<item>
+			<title>2025.10.20</title>
+			<link>https://baki.cc/serial.28.html#188</link>
+			<description>site changes</description>
+			<content:encoded>
+<![CDATA[
+		<p><a href="https://www.newportnewstimes.com/news/tragic-surf-rescue-near-siletz-bay/article_6ba76641-7e3c-4f09-a73c-3904c6fcaecf.html">'Tragic' surf rescue near Siletz Bay</a>. Someone got caught in a <a href="https://en.wikipedia.org/wiki/Rip_tide">rip</a>.</p>
+		<p>Decided to add the occasional vids and pics I've taken to the header of new pages.</p>
+		<p>Decided to bring back the CSS that allows for auto switching between light/dark mode for the site based on visitor settings.</p>
+]]>
+			</content:encoded>
+			<pubDate>Mon, 20 Oct 2025 10:08:42 PDT</pubDate>
+			<guid>https://baki.cc/serial.28.html#188</guid>
+		</item>
 
 
 
