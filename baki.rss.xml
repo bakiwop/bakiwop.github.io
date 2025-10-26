@@ -18,7 +18,12 @@
 			<description>Trying to pick the right book for reader's advisory.</description>
 			<content:encoded>
 <![CDATA[
-		<p>I want to go back to Paris just so I can eat at the <a href="https://www.google.com/maps/search/McDonald's/@48.8725678,2.2945336,16z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D">McDonald's on Avenue des Champs-Élysées</a> again.</p>
+		<p>Librarian trying to pick the right book for reader's advisory.</p>
+		<p>
+		<video controls>
+			<source src="media/library.readers.advisory.mp4" type="video/mp4">
+		</video>
+		</p>
 ]]>
 			</content:encoded>
 			<pubDate>Sun, 26 Oct 2025 12:44:42 PDT</pubDate>
