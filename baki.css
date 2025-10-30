@@ -16,6 +16,8 @@ body{
 
 sup{font-size:.7em;font-weight:900;font-family:courier,courier new;color:#0df027;}
 
+.caveat{color:#99ff99;text-align:center;}
+
 p,ol,ul{
 	margin:15px 50px 15px 50px;
 	font-weight:normal;
@@ -71,15 +73,15 @@ video{
 
 .rowblue {
 	background-color: #00ccff;
-	height:5px;
+	height:3px;
 }
 .rowgreen {
 	background-color: #99ff99;
-	height:5px;
+	height:3px;
 }
 .roworange {
 	background-color: #ffcc66;
-	height:5px;
+	height:3px;
 }
 .rowred {
 	background-color: #ff9966;
@@ -91,7 +93,7 @@ video{
 }
 .rowlight {
 	background-color: #ffffcc;
-	height:5px;
+	height:3px;
 }
 
 /* for the piccolo screens */
