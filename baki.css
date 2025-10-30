@@ -15,3 +15,22 @@ a:hover{color:#EE7600;text-decoration:none;}
 
 img{border:0px;}
 
+
+.rowblue {
+	background-color: #00ccff;
+	height:5px;
+}
+.rowgreen {
+	background-color: #ccff99;
+	height:5px;
+}
+.roworange {
+	background-color: #ffcc66;
+	height:5px;
+}
+.rowred {
+	background-color: #ff9966;
+	height:5px;
+}
+
+
