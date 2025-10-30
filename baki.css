@@ -3,9 +3,9 @@ body{background-color:#fff;font:normal 1.3rem verdana,helvetica,sans-serif;margi
 
 .runny_header{background-color:#cc3333;margin:0px;padding:20px;text-align:center;}
 
-p,ol,ul{margin:15px 25px 15px 25px;font-weight:normal;color:#555;line-height:1.5rem;}
+p,ol,ul{margin:15px 25px 15px 25px;font-weight:normal;color:#555;line-height:1.7rem;}
 .embiggen{margin:20px 0px 0px 0px;text-align:center;}
-.titulo{margin:42px 0px 25px 0px;font-size:2.0rem;color:#00ccff;font-weight:400;text-align:center;}
+.titulo{margin:75px 0px 55px 0px;font-size:2.0rem;color:#00ccff;font-weight:400;text-align:center;}
 .titulo a{text-decoration:none;color:#00ccff;}
 .titulo a:hover{background-color:#00ccff;color:#ffffff;text-decoration:none;}
 a{color:#AA5303;text-decoration:underline;}
