@@ -1,27 +1,69 @@
-body{background-color:#fff;font:normal 1.1rem verdana,helvetica,sans-serif;margin:0px;padding:0px;}
-#thegreatentailer{padding-bottom:30px;margin:0 auto;}
+body{
+	background-color:#fff;
+	font:normal 1.1rem verdana,sans-serif;
+	color:#555;
+	line-height:1.5rem;
+	margin:0px;
+	padding:0px;
 
-.runny_header{background-color:#cc3333;margin:0px;padding:20px;text-align:center;}
+}
 
-p,ol,ul{margin:15px 25px 15px 25px;font-weight:normal;color:#555;line-height:1.5rem;}
-/*
-.embiggen{margin:20px 0px 0px 0px;text-align:center;}
-*/
-.titulo{margin:75px 0px 55px 0px;font-size:1.4rem;color:#00ccff;font-weight:400;text-align:center;}
-.titulo a{text-decoration:none;color:#00ccff;}
-.titulo a:hover{background-color:#00ccff;color:#ffffff;text-decoration:none;}
-a{color:#AA5303;text-decoration:underline;}
-a:hover{color:#EE7600;text-decoration:none;}
+#thegreatentailer{
+	max-width:900px;
+	padding-bottom:30px;
+	margin:0 auto;
+}
+
+sup{font-size:.7em;font-weight:900;font-family:courier,courier new;color:#0df027;}
+
+p,ol,ul{
+	margin:15px 25px 15px 25px;
+	font-weight:normal;
+}
+
+.embiggen{
+	margin:20px 0px 0px 0px;
+	text-align:center;
+}
+
+.titulo{
+	margin:55px 0px 35px 0px;
+	font-size:1.4rem;
+	color:#00ccff;
+	font-weight:400;
+	text-align:center;
+}
+
+.titulo a{
+	text-decoration:none;
+	color:#00ccff;
+}
+
+.titulo a:hover{
+	background-color:#00ccff;
+	color:#ffffff;
+	text-decoration:none;
+}
+
+a{
+	color:#00ccff;
+	text-decoration:none;
+}
+
+a:hover{
+	background-color:#00ccff;
+	color:#ffffff;
+
+}
 
 img{border:0px;}
-
 
 .rowblue {
 	background-color: #00ccff;
 	height:5px;
 }
 .rowgreen {
-	background-color: #ccff99;
+	background-color: #99ff99;
 	height:5px;
 }
 .roworange {
@@ -30,11 +72,34 @@ img{border:0px;}
 }
 .rowred {
 	background-color: #ff9966;
-	height:5px;
+}
+.rowbaki{
+	background-color: #cc3333;
+	text-align:center;
+	margin:0px;padding:20px;
 }
 .rowlight {
 	background-color: #ffffcc;
 	height:5px;
+}
+
+/* for the piccolo screens */
+@media (max-width: 500px) {
+
+	body {
+		margin: 1.0rem;
+	}
+	p {
+		text-align: justify;
+	}
+	p,ol,ul{
+		margin:5px 5px 5px 5px;
+		font-weight:normal;
+	}
+	.embiggen{
+		margin:5px 5px 5px 5px;
+		text-align:center;
+	}
 }
 
 
