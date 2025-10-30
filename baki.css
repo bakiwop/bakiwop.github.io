@@ -1,81 +1,15 @@
-body{margin:20px auto;max-width:750px;line-height:1.45;font-size:1.1rem;color:#444;background-color:#000;padding-left:5px;padding-right:5px;font-family:verdana,helvetica neue,helvetica,arial,sans-serif;}
+body{background-color:#fff;font:normal 1.3rem verdana,helvetica,sans-serif;margin:0px;padding:0px;}
+#thegreatentailer{padding-bottom:30px;margin:0 auto;}
 
+.runny_header{background-color:#cc3333;margin:0px;padding:20px;text-align:center;}
 
+p,ol,ul{margin:15px 25px 15px 25px;font-weight:normal;color:#555;line-height:1.5rem;}
+.embiggen{margin:20px 0px 0px 0px;text-align:center;}
+.titulo{margin:42px 0px 25px 0px;font-size:2.0rem;color:#00ccff;font-weight:400;text-align:center;}
+.titulo a{text-decoration:none;color:#00ccff;}
+.titulo a:hover{background-color:#00ccff;color:#ffffff;text-decoration:none;}
+a{color:#AA5303;text-decoration:underline;}
+a:hover{color:#EE7600;text-decoration:none;}
 
-:root {
-  color-scheme: light dark;
-}
-
-body {
-	color: light-dark(#000, #fff);
-	background-color: light-dark(#fff, #000);
-}
-
-
-
-
-sup{font-size:.7em;font-weight:900;font-family:courier,courier new;color:#0df027;}
-
-header{text-align:center;margin-bottom:40px;}
-.navdivide{color:#0df027;}
-h6.perma{margin-bottom:-15px;color:#0df027;}
-h3{margin-bottom:-5px}
-.small{color:#0dcaf0;font-size:14px;}
-.lightgray{color:#ccc;}
-.dotdot{color:#0df027;}
-
-img{max-width:100%;height:auto;}
-video{max-width:100%;height:auto;}
-iframe{aspect-ratio:16/9;height:auto;width:100%;}
-
-a:link{
-color:#0dcaf0;padding:3px;
-/*
-   			text-shadow:0px 0px 30px #44d5f1;
-  			-moz-transition: all 0.2s ease-in;
-  			-o-transition: all 0.2s ease-in;
-  			-webkit-transition: all 0.2s ease-in;
-  			transition: all 0.2s ease-in;
-*/
-}
-a:visited{color:#0dcaf0;padding:3px;}
-a:hover{background-color:#0dcaf0;color:#fff;padding:3px;}
-a:active{color:#0dcaf0;padding:3px;}
-
-
-a.pink:link {
-  color: #f0f;
-/*
-   			text-shadow:0px 0px 30px #fc29fc;
-  			-moz-transition: all 0.2s ease-in;
-  			-o-transition: all 0.2s ease-in;
-  			-webkit-transition: all 0.2s ease-in;
-  			transition: all 0.2s ease-in;
-*/
-}
-a.pink:visited {
-  color: #fof;
-}
-a.pink:hover {
-  color: #fff;
-  background-color:#f0f;
-  padding:3px;
-}
-a.pink:active {
-  color: #fof;
-}
-
-blockquote {
-	border-left: 3px solid #0df027;
-
-	padding: 0em 10px;
-/*
-  background: #f9f9f9;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-  quotes: "\201C""\201D""\2018""\2019";
-*/
-}
-
-
+img{border:0px;}
 
