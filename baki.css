@@ -24,6 +24,10 @@ p,ol,ul{
 .embiggen{
 	margin:20px 0px 0px 0px;
 	text-align:center;
+	border-top: dashed 1px #99ff99;
+	border-bottom: dashed 1px #99ff99;
+	padding-top:25px;
+	padding-bottom:25px;
 }
 
 .titulo{
@@ -51,12 +55,16 @@ a{
 }
 
 a:hover{
-	color:#33cccc;
+	color:#cc3333;
 	text-decoration:none;
 }
 
 img{
-	border:0px;
+	height: auto;
+	max-width: 100%;
+}
+
+video{
 	height: auto;
 	max-width: 100%;
 }
