@@ -23,6 +23,14 @@ p,ol,ul{
 	font-weight:normal;
 }
 
+ul{
+	list-style-type:square;
+}
+
+h3{
+	color:#99ff99;
+}
+
 .embiggen{
 	margin:20px 0px 0px 0px;
 	text-align:center;
@@ -73,15 +81,15 @@ video{
 
 .rowblue {
 	background-color: #00ccff;
-	height:3px;
+	height:4px;
 }
 .rowgreen {
 	background-color: #99ff99;
-	height:3px;
+	height:4px;
 }
 .roworange {
 	background-color: #ffcc66;
-	height:3px;
+	height:4px;
 }
 .rowred {
 	background-color: #ff9966;
@@ -93,7 +101,7 @@ video{
 }
 .rowlight {
 	background-color: #ffffcc;
-	height:3px;
+	height:4px;
 }
 
 /* for the piccolo screens */
