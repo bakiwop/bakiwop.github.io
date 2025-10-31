@@ -115,7 +115,7 @@ video{
 
 .dinotacol {
   background-color: #eeffee;
-  padding: 0px;
+  padding: 5px;
   width: 100%;
 
 }
@@ -151,6 +151,9 @@ video{
 	.dinotarow {
 		flex-direction: column;
 
+	}
+	.dinotacol {
+		padding: 0px;
 	}
 }
 
