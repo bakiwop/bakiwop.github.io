@@ -93,14 +93,18 @@ video{
 }
 .rowred {
 	background-color: #ff9966;
+	height:4px;
 }
 .rowbaki{
 	background-color: #cc3333;
+	height:4px;
+/*
 	text-align:center;
-	margin:0px;padding:25px;
+	margin:0px;padding:5px;
+*/
 }
 .rowlight {
-	background-color: #ffffcc;
+	background-color: #ffff99;
 	height:4px;
 }
 
