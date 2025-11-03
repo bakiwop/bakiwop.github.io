@@ -16,7 +16,9 @@ body{
 	max-width:900px;
 }
 
-sup{font-size:.7em;font-weight:900;font-family:courier,courier new;color:#0df027;}
+.lightgray{color:#ccc;}
+
+.illuminated{font-size:.7em;font-weight:900;font-family:courier,courier new;color:#FF3C00;}
 
 .caveat{color:#99ff99;text-align:center;}
 
@@ -49,6 +51,14 @@ h3{
 	border-bottom: dashed 1px #99ff99;
 	padding-top:25px;
 	padding-bottom:25px;
+}
+
+.titolo{
+	margin:55px 0px 25px 0px;
+	font-size:1.4rem;
+	color:#99ff99;
+	font-weight:400;
+	text-align:center;
 }
 
 .titulo{
@@ -159,6 +169,27 @@ video{
 	margin:0px 0px 0px 0px;
 }
 
+.indexrow {
+	display: flex;
+	flex-direction: row;
+
+	margin:0px 0px 0px 0px;
+}
+
+.indexcol {
+  padding: 5px;
+  width: 100%;
+  text-align:center;
+
+}
+
+.indexdash {
+	border-bottom: dashed 1px #ffcc66;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin:0px 0px 0px 0px;
+}
+
 
 
 
@@ -185,6 +216,13 @@ video{
 
 	}
 	.dinotacol {
+		padding: 0px;
+	}
+	.indexrow {
+		flex-direction: column;
+
+	}
+	.indexcol {
 		padding: 0px;
 	}
 }

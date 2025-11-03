@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<atom:link href="https://baki.cc/baki.rss.xml" rel="self" type="application/rss+xml" />
+		<title>baki</title>
+		<link>https://baki.cc/</link>
+		<description>Caveat Lector</description>
+		<lastBuildDate>Wed, 29 Oct 2025 12:39:42 PDT</lastBuildDate>
+		<language>en-us</language>
+
+
+
+
+
+		<item>
+			<title>2025.11.03</title>
+			<link>https://baki.cc/ope.html#1</link>
+			<description>2025.11.02</description>
+			<content:encoded>
+<![CDATA[
+<p>We've had a beach hazards statement put out by the National Weather Service for about two weeks now. "Beach Hazards" usually indicates <a href="https://en.wikipedia.org/wiki/Sneaker_wave">sneaker waves</a>.
+<blockquote>
+The unpredictability of sneaker waves and their tendency to arrive suddenly after lengthy periods of gentle, lapping waves makes it easy for them to surprise unwary or inexperienced beachgoers; because they are much larger than preceding waves, sneaker waves can catch inattentive swimmers, waders, and other people on beaches and ocean jetties and wash them into the sea. The force of a sneaker wave's surge and the large volume of water rushing far up a beach is enough to suddenly submerge people thigh- or waist-deep, knock them off their feet, and drag them into the ocean or trap them against rocks.
+</blockquote>
+<p>A tourist got caught out by one recently: <a href="https://www.newportnewstimes.com/news/tragic-surf-rescue-near-siletz-bay/article_6ba76641-7e3c-4f09-a73c-3904c6fcaecf.html">'Tragic' surf rescue near Siletz Bay</a>.</p>
+<p>The ocean's been angry these days, my friend. </p> 
+<p class="embiggen">
+	<video controls loop>
+		<source src="https://baki.cc/media/ope.beach.hazard.mp4" type="video/mp4">
+	</video>
+</p>
+<p>This is a bit on the extreme side of standard Fall and Winter ocean behavior. In these months the beaches get smaller as the ocean pulls away much of the sand it built up over the Spring and Summer months. How does it pull the sand away, you might ask? <a href="https://explorebeaches.msi.ucsb.edu/sandy-beach-life/sand-movement">Let's ask UC-Santa Barbara</a>.</p>
+<blockquote>
+High-energy winter storm waves pull sand offshore, creating more narrow, cobbled beaches. Lower, gentle summer waves carry sand onshore, widening beaches.
+</blockquote>
+<pThere we go.</p>
+<p>In fact, the wave action has been so intense here that two weeks ago we had some big wave surfers out there doing their thing about 100 yards from shore. Never seen them that close before. The waves were so big and the sea was so gnarly that they had a wave runner towing people into the waves and out of the surf.</p>
+
+]]>
+			</content:encoded>
+			<pubDate>Mon, 03 Nov 2025 15:31:42 PDT</pubDate>
+			<guid>https://baki.cc/ope.html#1</guid>
+		</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</channel>
+</rss>
