@@ -226,9 +226,12 @@ video{
 	.indexcol {
 		padding: 0px;
 	}
-p.abbeynormal {
- 	text-align: center;
-}
+	p.abbeynormal {
+ 		text-align: center;
+	}
+	.caveat {
+ 		text-align: center;
+	}
 }
 
 
