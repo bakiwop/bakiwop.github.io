@@ -16,6 +16,12 @@ body{
 	max-width:900px;
 }
 
+.glyph {
+	color: #99ff99;
+	text-align:center;
+	font-size: 2rem;
+}
+
 .lightgray{color:#ccc;}
 
 .illuminated{font-size:.7em;font-weight:900;font-family:courier,courier new;color:#FF3C00;}
