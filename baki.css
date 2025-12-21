@@ -1,8 +1,17 @@
+:root {
+  color-scheme: light dark;
+}
+
+body {
+	color: light-dark(#555, #ccc);
+	background-color: light-dark(#fff, #303);
+}
+
 body{
 /*	background-color:#303; */
-	background-color:#fff;
+/*	background-color:#fff; */
 	font:normal 1.1rem verdana,sans-serif;
-	color:#555;
+/*	color:#555; */
 /*	color:#fff; */
 	line-height:1.5rem;
 	margin:0px;
@@ -38,7 +47,7 @@ blockquote {
 	padding: 0em 10px;
 }
 
-p.abbeynormal {
+.abbeynormal {
  	text-align: center;
 }
 
@@ -232,13 +241,15 @@ video{
 	.indexcol {
 		padding: 0px;
 	}
-	p.abbeynormal {
+	.abbeynormal {
  		text-align: center;
 	}
 	.caveat {
  		text-align: center;
 	}
 }
+
+
 
 
 
