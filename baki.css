@@ -25,6 +25,10 @@ body{
 	max-width:900px;
 }
 
+.right {
+  text-align: right;
+}
+
 .glyph {
 	color: #99ff99;
 	text-align:center;
