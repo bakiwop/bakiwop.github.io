@@ -47,7 +47,8 @@ p,blockquote,ol,ul{
 }
 
 blockquote {
-	background:#ebffeb;
+/*	background:#ebffeb; */
+	background-color: light-dark(#ebffeb, #303);
 	border-left: 3px solid #99ff99;
 	padding:.5em 10px;
 }
