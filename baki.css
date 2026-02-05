@@ -177,7 +177,8 @@ video{
 }
 
 .dinotacol {
-  background-color: #eeffee;
+  /* background-color: #eeffee; */
+  background-color: light-dark(#eeffee, #303);
   padding: 5px;
   width: 100%;
 
