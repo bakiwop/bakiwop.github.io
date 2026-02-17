@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<atom:link href="https://baki.cc/baki.rss.xml" rel="self" type="application/rss+xml" />
+		<title>baki</title>
+		<link>https://baki.cc/</link>
+		<description>Caveat Lector</description>
+		<lastBuildDate>Tue, 17 Feb 2026 12:39:42 PDT</lastBuildDate>
+		<language>en-us</language>
+
+
+
+
+
+
+		<item>
+			<title>2026.02.17</title>
+			<link>https://baki.cc/ope.2026.02.html#41</link>
+			<description>Big wave action and snow on Cascade Head.</description>
+			<content:encoded>
+<![CDATA[
+		<p>Big wave action and snow on <a href="https://en.wikipedia.org/wiki/Cascade_Head">Cascade Head</a>.</p>
+		<p class="embiggen">
+			<img src="https://baki.cc/media/wicked.surf.snow.cascade.head.jpg" alt="Big waves and snow on Cascade Head." title="Big wavesans snow on Cascade Head." />
+		</p>
+]]>
+			</content:encoded>
+			<pubDate>Tue, 17 Feb 2026 10:05:42 PDT</pubDate>
+			<guid>https://baki.cc/ope.2026.02.html#41</guid>
+		</item>
+
+
+
+
+
+		<item>
+			<title>2026.02.16</title>
+			<link>https://baki.cc/books.html#riot.baby</link>
+			<description>book: riot baby</description>
+			<content:encoded>
+<![CDATA[
+		<p><a href="https://www.librarything.com/work/21970188/t/Riot-Baby"><cite>Riot Baby</cite></a> by <a href="https://www.tochionyebuchi.com/">Tochi Onyebuchi</a> - Wish it were longer.</p>
+]]>
+			</content:encoded>
+			<pubDate>Mon, 16 Feb 2026 15:24:42 PDT</pubDate>
+			<guid>https://baki.cc/books.html#riot.baby</guid>
+		</item>
+
+
+
+
+
+
+
+
+	</channel>
+</rss>
