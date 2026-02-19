@@ -5,7 +5,7 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Tue, 17 Feb 2026 12:39:42 PDT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Feb 2026 10:02:42 PDT</lastBuildDate>
 		<language>en-us</language>
 
 
@@ -27,6 +27,40 @@
 			</content:encoded>
 			<pubDate>Tue, 17 Feb 2026 10:05:42 PDT</pubDate>
 			<guid>https://baki.cc/ope.2026.02.html#41</guid>
+		</item>
+
+
+
+
+
+		<item>
+			<title>2026.02.19</title>
+			<link>https://baki.cc/books.html#bliss.montage</link>
+			<description>book: bliss montage</description>
+			<content:encoded>
+<![CDATA[
+		<p><a href=""></a></p>
+]]>
+			</content:encoded>
+			<pubDate>Thu, 19 Feb 2026 10:01:42 PDT</pubDate>
+			<guid>https://baki.cc/books.html#bliss.montage</guid>
+		</item>
+
+
+
+
+
+		<item>
+			<title>2026.02.19</title>
+			<link>https://baki.cc/di.nota.html</link>
+			<description>di.nota: SCP Foundation</description>
+			<content:encoded>
+<![CDATA[
+		<p><a href="https://scp-wiki.wikidot.com/">SCP Foundation</a></p>
+]]>
+			</content:encoded>
+			<pubDate>Thu, 19 Feb 2026 10:00:42 PDT</pubDate>
+			<guid>https://baki.cc/di.nota.htmlscp</guid>
 		</item>
 
 
