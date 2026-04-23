@@ -5,12 +5,44 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Tue, 21 Apr 2026 20:16:42 PDT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Apr 2026 10:13:42 PDT</lastBuildDate>
 		<language>en-us</language>
 
 
 
 
+
+
+		<item>
+			<title>2026.04.23</title>
+			<link>https://baki.cc/ope.2026.04.html#71</link>
+			<description>Flyby.</description>
+			<content:encoded>
+<![CDATA[
+<p class="embiggen">
+	<video controls loop>
+		<source src="media/travel.by.parachute.mp4" type="video/mp4">
+	</video>
+</p>
+]]>
+			</content:encoded>
+			<pubDate>Thu, 23 Apr 2026 10:13:42 PDT</pubDate>
+			<guid>https://baki.cc/ope.2026.04.html#71</guid>
+		</item>
+
+
+		<item>
+			<title>2026.04.22</title>
+			<link>https://baki.cc/ope.2026.04.html#70</link>
+			<description>Setup a custom domain on github pages.</description>
+			<content:encoded>
+<![CDATA[
+<p><a href="https://dev.to/sidmohanty11/how-to-add-a-custom-domain-to-github-pages-hostinger-edition-p4p">Setup a custom domain in github pages.</a></p>
+]]>
+			</content:encoded>
+			<pubDate>Wed, 22 Apr 2026 20:16:42 PDT</pubDate>
+			<guid>https://baki.cc/ope.2026.04.html#70</guid>
+		</item>
 
 
 		<item>
