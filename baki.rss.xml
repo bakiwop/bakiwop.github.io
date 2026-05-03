@@ -5,7 +5,7 @@
 		<title>baki</title>
 		<link>https://baki.cc/</link>
 		<description>Caveat Lector</description>
-		<lastBuildDate>Fri, 01 May 2026 13:48:42 PDT</lastBuildDate>
+		<lastBuildDate>Sat, 02 May 2026 20:48:42 PDT</lastBuildDate>
 		<language>en-us</language>
 
 
@@ -14,20 +14,16 @@
 
 
 		<item>
-			<title>2026.05.01</title>
-			<link>https://baki.cc/ope.2026.05.html#72</link>
-			<description>bird walkin'.</description>
+			<title>2026.05.02</title>
+			<link>https://baki.cc/ope.2026.05.html#73</link>
+			<description>PNW Calla Lilies.</description>
 			<content:encoded>
 <![CDATA[
-<p class="embiggen">
-	<video controls loop>
-		<source src="media/bird.walkin.across.the.way.mp4" type="video/mp4">
-	</video>
-</p>
+<p class="embiggen"><img src="media/big.honking.calla.lilies.jpg" alt="PNW Calla Lilies. Five feet tall and growing." title="PNW Calla Lilies" /></p>
 ]]>
 			</content:encoded>
-			<pubDate>Fri, 01 May 2026 13:48:42 PDT</pubDate>
-			<guid>https://baki.cc/ope.2026.05.html#72</guid>
+			<pubDate>Sat, 02 May 2026 20:48:42 PDT</pubDate>
+			<guid>https://baki.cc/ope.2026.05.html#73</guid>
 		</item>
 
 
